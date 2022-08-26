@@ -1,10 +1,10 @@
 {
   "formatVersion": 1,
-  "slug": "horizr-visum",
+  "slug": "horizr-materia",
   "meta": {
-    "name": "horizr ❯ visum",
+    "name": "horizr ❯ materia",
     "version": "1.0.0",
-    "description": "A Vanilla+ pack with a focus on aesthetics.",
+    "description": "Technology and automation, including Create. Based on horizr ❯ visum.",
     "authors": [
       "The horizr contributors"
     ],

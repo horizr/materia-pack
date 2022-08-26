@@ -1,7 +1,7 @@
-![horizr ❯ visum](./banner.png)
+![horizr ❯ materia](./banner.png)
 
-# horizr ❯ visum
-> A Vanilla+ pack with a focus on aesthetics.
+# horizr ❯ materia
+> Technology and automation, including Create. Based on [horizr ❯ visum](https://github.com/horizr/visum-pack).
 
 [**📄 Included mods**](./docs/mods.md)
 
