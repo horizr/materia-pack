@@ -1,4 +1,7 @@
 # Mods
+
+The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidnightDust/BetterLeavesPack) is preinstalled.
+
 ## Included
 ### Performance
 - `Cull Leaves` — culling for leaf blocks
