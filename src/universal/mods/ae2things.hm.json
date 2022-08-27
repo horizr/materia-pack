@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "1.1.0-beta.8",
+    "size": 142358,
+    "fileName": "AE2Things-1.1.0-beta.8.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/veunMwU3/versions/1.1.0-beta.8/AE2Things-1.1.0-beta.8.jar",
+    "hashes": {
+      "sha1": "b31f274f9d8352b048bef4d98186ca4048794393",
+      "sha512": "2963bc778f9ba886717b0beca6bd5bafb0864f659ae4a22193ba18b58f231427f8d88a8eb13002c9f9423e93c98ff6bf6dc95273525ba18e0ae48386579e4fb1"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "veunMwU3",
+    "versionId": "eI42qDdT",
+    "ignoreUpdates": false
+  }
+}

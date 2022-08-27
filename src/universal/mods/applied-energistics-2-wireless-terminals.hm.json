@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "11.1.4-fabric",
+    "size": 208088,
+    "fileName": "AE2WTLib-11.1.4.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/pNabrMMw/versions/11.1.4-fabric/AE2WTLib-11.1.4.jar",
+    "hashes": {
+      "sha1": "7263a0cc8903f666ad4eb3db694d8be08b4f296a",
+      "sha512": "e497b5f61ba1c2b10f3a0c2c468e1c9709bcc39851427976b78b3433e3d92f03b9c86e32845987a41fd00e13f4f2208ecb8de98a8a92642b816f7821b320d257"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "pNabrMMw",
+    "versionId": "6qVA8kLw",
+    "ignoreUpdates": false
+  }
+}

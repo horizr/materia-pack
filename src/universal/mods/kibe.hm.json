@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "1.9.9-BETA+1.18",
+    "size": 1196867,
+    "fileName": "kibe-1.9.9-BETA+1.18.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/OvlwmUdC/versions/1.9.9-BETA+1.18/kibe-1.9.9-BETA%2B1.18.jar",
+    "hashes": {
+      "sha1": "08fb19887eb6fcfd3eb0ca3f10276cfd50ff964f",
+      "sha512": "6e9e6e840da0584986fa45194b640318074adf0dfaa808acd5aac31d5b8d9c335b8a377e7b1c9e198d0a4849a4ed642f24d162f7bb43f0688e2440b6381c82b3"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "OvlwmUdC",
+    "versionId": "nE71ldFN",
+    "ignoreUpdates": false
+  }
+}

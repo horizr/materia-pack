@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "mc1.18-4.3",
+    "size": 694065,
+    "fileName": "sync-mc1.18.2-4.3.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/OrJTMhHF/versions/mc1.18-4.3/sync-mc1.18.2-4.3.jar",
+    "hashes": {
+      "sha1": "8f02b1c5e2cbb22e114876fafb960d486ecff4bb",
+      "sha512": "6ea36e6f90a0d763c0aacaeb61164a6a6ba479b5015203a6163efba65fa9374e95a6853229e79bc755e1a8f1fe0da6baba817a82299c2aa748580b89338089e9"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "OrJTMhHF",
+    "versionId": "f8qpivE8",
+    "ignoreUpdates": false
+  }
+}

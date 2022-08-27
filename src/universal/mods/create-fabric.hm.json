@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "create-1.18.2-0.5.0c-708",
+    "size": 15618355,
+    "fileName": "create-1.18.2-0.5.0c-708.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/Xbc0uyRg/versions/create-1.18.2-0.5.0c-708/create-1.18.2-0.5.0c-708.jar",
+    "hashes": {
+      "sha1": "57898d9d6be6dde0b9ed857487d8c6178774cc1a",
+      "sha512": "4b467657534aeb95e1df54a3a3eed92f0705143e1937318b9a8aff8ad0a00b6fd9010cbf9b6b0ef3bc22a6152fe4573a53e54a0554a7a5998fc877ec44051ca5"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "Xbc0uyRg",
+    "versionId": "j7rLltXv",
+    "ignoreUpdates": false
+  }
+}

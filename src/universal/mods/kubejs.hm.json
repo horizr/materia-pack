@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "1802.5.4-build.535+fabric",
+    "size": 1006528,
+    "fileName": "kubejs-fabric-1802.5.4-build.535.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/umyGl7zF/versions/xXAtessU/kubejs-fabric-1802.5.4-build.535.jar",
+    "hashes": {
+      "sha1": "906ab5a2c4ddac3e231d4c62e03a975468e5041a",
+      "sha512": "f58a8e0e4cc3abb2015c14e1ce70c1218a1b6be1e271cfa45da49f59d57d3310f2ec078f90cd5dad7381f8a325d9990d46fe6576a2c79e8decfb6b64c3510cd3"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "umyGl7zF",
+    "versionId": "xXAtessU",
+    "ignoreUpdates": false
+  }
+}

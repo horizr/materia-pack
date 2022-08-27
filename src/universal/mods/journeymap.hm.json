@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "1.18.2-5.8.5-fabric",
+    "size": 7321295,
+    "fileName": "journeymap-1.18.2-5.8.5-fabric.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/lfHFW1mp/versions/1.18.2-5.8.5-fabric/journeymap-1.18.2-5.8.5-fabric.jar",
+    "hashes": {
+      "sha1": "17916cebd051a543995db098c92ba86edc52d357",
+      "sha512": "bb67f5d2b17752d71333716179a80bc455230425ca15f4eed65b564907e99da1dba5093f83d41ab65a287576be5b82a501609d7e7d1aa173eeb441ad1e34df94"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "lfHFW1mp",
+    "versionId": "uX9LXMFe",
+    "ignoreUpdates": false
+  }
+}

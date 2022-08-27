@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "0.2.1+1.18.2",
+    "size": 1260233,
+    "fileName": "automobility-0.2.1+1.18.2.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/rqIsPf9F/versions/0.2.1+1.18.2/automobility-0.2.1%2B1.18.2.jar",
+    "hashes": {
+      "sha1": "0dbcfd7f9597a89fa682af0ffd7b8129bb7300f7",
+      "sha512": "3167192abca33ac2c605337077d19766a92c804f5afd27d7e6859bb8ef070efd83da72041a25f166a6d14fa52228ef642d332e26d8a50df22dcc93df6e9fc56c"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "rqIsPf9F",
+    "versionId": "AYSLOdYB",
+    "ignoreUpdates": false
+  }
+}

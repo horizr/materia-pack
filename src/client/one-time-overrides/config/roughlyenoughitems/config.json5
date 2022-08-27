@@ -140,7 +140,7 @@
 		// Declares the appearance of recipe's border.
 		"recipeBorder": "DEFAULT",
 		// Declares whether entry panel is scrolled.
-		"scrollingEntryListWidget": true,
+		"scrollingEntryListWidget": false,
 		"horizontalEntriesBoundaries": 0.96,
 		"verticalEntriesBoundaries": 1.0,
 		"horizontalEntriesBoundariesColumns": 50,

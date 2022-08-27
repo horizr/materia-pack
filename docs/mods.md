@@ -24,11 +24,29 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 ### World-gen & decoration
 - `Adorn` — furniture
 - `Artisanat` — more block variations
+- `Bits And Chisels` — bit chiseling
+- `Decorative`
 - `Mo' Structures` — many new structures
 - `Promenade` — biomes, mobs and ducks
+- `Terrestria` — biomes
+- `Traverse` — biomes
+
+### Technology
+- `Ad Astra` — space exploration
+- `Automobility` — customizable vehicles
+- `Applied Energistics` — storage
+- `AE2Things` — additions to `Applied Energistics`
+- `CC: Restitched` — computers
+- `Create` — steampunk machines
+- `Create Crafts & Additions` — additions to `Create`
+- `Portal Cubed` — Items and blocks from Portal
+- `Powah`
+- `Sync` — controllable player clones
+- `Tech Reborn` — standalone tech-mod
 
 ### GUI
 - `AppleSkin` — hunger/health-related HUD improvements
+- `JourneyMap` — HUD map
 - `Mod Menu` — adds a mod menu
 - `Raised` — fixes the hotbar position
 - `Reese's Sodium Options` — replaces the graphics settings
@@ -36,24 +54,28 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `WTHIT` — looking-at HUD
 
 ### Compatibility
+- `CreatePlus` — `Create` + many tech-mods
 - `Indium` — `Lithium` + `Fabric Rendering API`
 - `Animatica` — animated textures
 - `Entity Texture Features` — random+emissive textures
 
 ### Miscellaneous
 - `Animal Feeding Trough`
+- `Auth Me` — in-game session re-validation
 - `Charm` — miscellaneous vanilla enhancements
 - `Charmonium` — better ambient sounds
 - `Culinaire` — more food items
 - `Debugify` — fixes various bugs
+- `Kibe` — various items and blocks
+- `Not Enough Crashes` — go to title screen on crash
 - `No Telemetry` — disables telemetry
+- `st'ructure tools` — building gadgets
 - `Universal Graves` — graves
 - `Zoomify` — zoom
-- `Auth Me` — in-game session re-validation
-- `Not Enough Crashes` — go to title screen on crash
 
 ### Modpack utilities
 - `OneTimeOverrides`
+- `KubeJS` — scripting
 
 ### Library
 - `Architectury API`
@@ -63,6 +85,8 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Fabric API`
 - `Fabric Language Kotlin`
 - `Feature NBT Deadlock Be Gone`
+- `MidnightLib`
+- `Rhino`
 
 ## Not included
 ### Experimental
@@ -79,17 +103,6 @@ Bug-fixing mods are generally excluded because of `Debugify`.
 - `FPS - Display` --> `Sodium`
 - `Health Care` --> `WTHIT`
 - `LambDynamicLights` --> `Iris Shaders`
-
-### Not vanilla enough
-- `Additional Additions` — various items
-- `ChestTracker` — find items in chests
-- `EasierCrafting` — crafting through clicking
-- `Falling Tree` — cut down a tree by only breaking one block
-- `Immersive Portals`
-- `limitless` — removes enchanting limits
-- `Origins` — character classes
-- `Paradise Lost` — Aether dimension
-- `Axes are Weapons` — weapon enchantments for axes
 
 ## In consideration
 - `Sandwichable` — sandwiches

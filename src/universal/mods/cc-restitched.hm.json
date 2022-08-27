@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "1.100.8+1.18.2",
+    "size": 3180756,
+    "fileName": "cc-restitched-1.100.8.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/eldBwa5V/versions/1.100.8+1.18.2/cc-restitched-1.100.8.jar",
+    "hashes": {
+      "sha1": "3c2291e1b3b7bcc238a2c38522afc274c5f83525",
+      "sha512": "bec72cdc36387218b254213f91e6077fa2e9bf715cb3add4652ec952b628db3371c96b0fb29facd5dd46e6df9ff2cc95ca735d5ac3a99ef4d5e7ecc403b0d012"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "eldBwa5V",
+    "versionId": "FbQHIk33",
+    "ignoreUpdates": false
+  }
+}

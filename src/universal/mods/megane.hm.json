@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "enabled": false,
+  "comment": "Crashes when looking at Applied Energistics blocks",
+  "version": {
+    "name": "7.8.0",
+    "size": 192786,
+    "fileName": "megane-7.8.0.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/ZNk5S5U6/versions/7.8.0/megane-7.8.0.jar",
+    "hashes": {
+      "sha1": "1f61e961b030ec117258c16ea83020bb3118cc61",
+      "sha512": "b407289b21f7ca6651238e00b37c2edc48f3c46cf13e8598494db0baa81511f00e997793d10b0540964f389f58621104daf639826a17a20ce7dd838cf9dc44c3"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "ZNk5S5U6",
+    "versionId": "LsxZ0bY7",
+    "ignoreUpdates": false
+  }
+}

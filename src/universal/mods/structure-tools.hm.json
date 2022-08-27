@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "1.0.22",
+    "size": 864744,
+    "fileName": "structure-tools-1.0.22.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/uD5WhhmK/versions/1.0.22/structure-tools-1.0.22.jar",
+    "hashes": {
+      "sha1": "3ae828251c6158668ebda7be9c394b1b406c1424",
+      "sha512": "a0ba0eff1eed242284b941161bc976cebed4eab88c05ece095e2eed1b31cb9fc687d1097da20536a819b9c324842b151331b675b5f8f3384a870e07807c1c9b3"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "uD5WhhmK",
+    "versionId": "Steux2ks",
+    "ignoreUpdates": false
+  }
+}

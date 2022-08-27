@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "enabled": false,
+  "comment": "Does not work and the repository is inactive.",
+  "version": {
+    "name": "6.1.0-fabric",
+    "size": 856810,
+    "fileName": "light-overlay-6.1.0-fabric.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/YfOlc91N/versions/6.1.0-fabric/light-overlay-6.1.0-fabric.jar",
+    "hashes": {
+      "sha1": "b69488a9bf61f7787a2db9a5dad54c5cf9e1cd66",
+      "sha512": "7d293fb0ba49aca8a3291ae72c371b2bfa05f4823daccc1d1774fc0266a47dbf9644058851863957106766bfb7d14b3d477015e7550062a3ef9d53f24708b6b1"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "YfOlc91N",
+    "versionId": "VyRVRcRk",
+    "ignoreUpdates": false
+  }
+}

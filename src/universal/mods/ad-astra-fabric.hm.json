@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "1.0.4",
+    "size": 5674028,
+    "fileName": "ad-astra-1.0.0.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/3ufwT9JF/versions/1.0.5/ad-astra-1.0.0.jar",
+    "hashes": {
+      "sha1": "069f897a444954b71d96791e796e0a3e2028bcc2",
+      "sha512": "f4f08d07aafe17a89233b15cc4fb9c0372b224b82cb02cf1ed31259ad28f9815c82ab0cd153c32f1ed70720ecec88b397de28b590c9fe2751140164aab391ef6"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "3ufwT9JF",
+    "versionId": "tSm8mJ5H",
+    "ignoreUpdates": false
+  }
+}

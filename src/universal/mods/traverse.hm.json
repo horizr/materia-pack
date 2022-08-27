@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "5.1.2",
+    "size": 1920922,
+    "fileName": "traverse-5.1.2.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/kXygSBVI/versions/5.1.2/traverse-5.1.2.jar",
+    "hashes": {
+      "sha1": "0d16602536e14c7e5179be410872c7ecf4cb65e0",
+      "sha512": "acb4e92e0744daa9446f3e22c6de6b0f4edd34add5e55dc155289c3209ac53f90ba005a242c319efb6eb32cfd1f196dfc8347f9621748f2e16e5d13923fabf7e"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "kXygSBVI",
+    "versionId": "pHE3MPJY",
+    "ignoreUpdates": false
+  }
+}

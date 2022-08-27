@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "fabric-11.1.6",
+    "size": 5058065,
+    "fileName": "appliedenergistics2-11.1.6.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/XxWD5pD3/versions/9WXP1AHX/appliedenergistics2-11.1.6.jar",
+    "hashes": {
+      "sha1": "87eadef889dbe737a3afbcb40523b848cd4bbae3",
+      "sha512": "58aff25401c813c5f93a8515e70397e998ac18ea6ceb854d98f40a8de52cecac8da3e227430dd27fe60debed23f6f587edb40c0267e9f6e08a69da4d947d777b"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "XxWD5pD3",
+    "versionId": "9WXP1AHX",
+    "ignoreUpdates": false
+  }
+}

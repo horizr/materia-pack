@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "4.2.0",
+    "size": 3141060,
+    "fileName": "decorative-4.2.0.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/O7pXTXac/versions/4.2.0/decorative-4.2.0.jar",
+    "hashes": {
+      "sha1": "068f7fb001ea391128fdb7c3a567709966b0f1d7",
+      "sha512": "6b1103f7da90fb63f08f20aa2d3b489d9ea9611ab66de2d6346a0721e27e44fa4a631eb406e82989a521240e15fb6d35580457f7def815b89d114caf1a833bcd"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "O7pXTXac",
+    "versionId": "Sr7QiUJH",
+    "ignoreUpdates": false
+  }
+}
