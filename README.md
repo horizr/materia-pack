@@ -10,6 +10,11 @@ We recommend using the [PolyMC launcher](https://polymc.org/) for playing the pa
 
 While creating a new instance, you can select the pack after searching for it in the _Modrinth_ tab.
 
+### Server
+We recommend using [docker-minecraft-server](https://github.com/itzg/docker-minecraft-server#running-a-server-with-a-packwiz-modpack).
+
+The packwiz pack is available at `https://materia.horizr.xyz/pack.toml`.
+
 ### Additional recommendations
 - [`Terralith`](https://www.planetminecraft.com/data-pack/terralith-overworld-evolved-100-biomes-caves-and-more/) — Datapack adding many new biomes
 - [`Complementary Shaders`](https://www.curseforge.com/minecraft/customization/complementary-shaders) — Highly-configurable shader-pack

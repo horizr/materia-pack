@@ -106,3 +106,4 @@ Bug-fixing mods are generally excluded because of `Debugify`.
 
 ## In consideration
 - `Sandwichable` — sandwiches
+- `Infernal Expansion`
