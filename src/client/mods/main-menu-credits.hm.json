@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "1.1.1",
+    "size": 14190,
+    "fileName": "main-menu-credits-1.1.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/qJDfP7WN/versions/1.1.1/main-menu-credits-1.1.1.jar",
+    "hashes": {
+      "sha1": "7df757c8d19a13da60c7b85f13870965d61c71d8",
+      "sha512": "20c4455b742e2bff30e043c810483e90b95aa01de6f5223ca12a895b296cc209974c36fb95ae2a0b9f0a9c912ed345f535643d2f19f51c23b3861764f5bd02a4"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "qJDfP7WN",
+    "versionId": "riozoxJO",
+    "ignoreUpdates": false
+  }
+}

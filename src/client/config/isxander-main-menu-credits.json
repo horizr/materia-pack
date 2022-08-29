@@ -1,0 +1,58 @@
+{
+  "main_menu": {
+    "top_left": [
+      [
+        {
+          "text": "horizr \u276f",
+          "bold": true,
+          "color": "white"
+        },
+        {
+          "text": " materia",
+          "bold": false,
+          "color": "aqua"
+        }
+      ],
+      {
+        "text": "v1.0.0-alpha.1",
+        "color": "gray"
+      }
+    ],
+    "top_right": [
+    ],
+    "bottom_left": [
+    ],
+    "bottom_right": [
+    ],
+    "mod_blacklist": [
+    ]
+  },
+  "pause_menu": {
+    "top_left": [
+      [
+        {
+          "text": "horizr \u276f",
+          "bold": true,
+          "color": "white"
+        },
+        {
+          "text": " materia",
+          "bold": false,
+          "color": "aqua"
+        }
+      ],
+      {
+        "text": "v1.0.0-alpha.1",
+        "color": "gray"
+      }
+    ],
+    "top_right": [
+    ],
+    "bottom_left": [
+    ],
+    "bottom_right": [
+    ],
+    "mod_blacklist": [
+    ]
+  }
+}
