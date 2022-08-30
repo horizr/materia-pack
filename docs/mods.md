@@ -97,13 +97,14 @@ These mods would be in the pack if they were stable.
 
 ### Alternative used
 Bug-fixing mods are generally excluded because of `Debugify`.
-- `Better Recipe Book` --> `Roughly Enough Items`
-- `DripSounds` --> `Charmonium`
-- `EditSign` --> `Charm`
-- `FPS - Display` --> `Sodium`
-- `Health Care` --> `WTHIT`
-- `LambDynamicLights` --> `Iris Shaders`
+- `Better Recipe Book` → `Roughly Enough Items`
+- `DripSounds` → `Charmonium`
+- `EditSign` → `Charm`
+- `FPS - Display` → `Sodium`
+- `Health Care` → `WTHIT`
+- `LambDynamicLights` → `Iris Shaders`
 
 ## In consideration
 - `Sandwichable` — sandwiches
 - `Infernal Expansion`
+- `When Dungeons arise` — dungeons
