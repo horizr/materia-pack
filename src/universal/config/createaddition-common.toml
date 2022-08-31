@@ -6,7 +6,7 @@
 	fe_conversion = 240
 	#Max stress for the Alternator and Electric Motor (in SU at 256 RPM).
 	#Range: > 0
-	baseline_stress = 8192
+	baseline_stress = 32768
 
 #Electric Motor
 [electric_motor]

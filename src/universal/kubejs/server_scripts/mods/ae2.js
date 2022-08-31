@@ -2,9 +2,24 @@ onEvent("recipes", event => {
     // All portable cells
     event.replaceInput({ input: "ae2:chest" }, "ae2:chest", "ae2:terminal")
 
-    event.replaceInput({ input: "ae2:silicon" }, "ae2:silicon", "techreborn:rubber")
-
     event.replaceInput({ output: "ae2:quartz_glass" }, "#c:glass", "minecraft:glass")
+
+    event.custom({
+        type: "techreborn:extractor",
+        power: 5,
+        time: 3,
+        ingredients: [
+            {
+                item: "techreborn:rubber",
+            }
+        ],
+        results: [
+            {
+                item: "ae2:silicon",
+                count: 1
+            }
+        ]
+    })
 
     event.remove({ output: "ae2:sky_compass" })
     event.shaped("ae2:sky_compass", [
