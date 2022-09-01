@@ -281,22 +281,22 @@
 		},
 		"energy_cells": {
 			"capacities": {
-				"starter": 40000,
-				"basic": 160000,
-				"hardened": 400000,
-				"blazing": 1600000,
-				"niotic": 4000000,
-				"spirited": 16000000,
-				"nitro": 80000000
+				"starter": 100000,
+				"basic": 500000,
+				"hardened": 1000000,
+				"blazing": 5000000,
+				"niotic": 10000000,
+				"spirited": 50000000,
+				"nitro": 100000000
 			},
 			"transfer_rates": {
-				"starter": 40,
-				"basic": 160,
-				"hardened": 400,
-				"blazing": 1600,
-				"niotic": 4000,
-				"spirited": 16000,
-				"nitro": 80000
+				"starter": 20,
+				"basic": 80,
+				"hardened": 1000,
+				"blazing": 5000,
+				"niotic": 100000,
+				"spirited": 500000,
+				"nitro": 1000000
 			}
 		},
 		"energizing_rods": {
