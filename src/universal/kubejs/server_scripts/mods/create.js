@@ -26,4 +26,26 @@ onEvent("recipes", event => {
             }
         ]
     })
+
+    ;["iron", "gold", "copper", "zinc"].forEach(ore => {
+        event.custom({
+            type: "create:crushing",
+            processingTime: 2 * 20,
+            ingredients: [
+                {
+                    tag: `c:raw_materials/${ore}`
+                }
+            ],
+            results: [
+                {
+                    item: `create:crushed_${ore}_ore`,
+                    count: 2
+                },
+                {
+                    item: `create:crushed_${ore}_ore`,
+                    chance: 0.25
+                }
+            ]
+        })
+    })
 })

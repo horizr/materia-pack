@@ -2,7 +2,7 @@
   "config": {
     "Selected Energy system": {
       "comment": "Possible values are: E (was FE, EU)",
-      "value": "E"
+      "value": "FE"
     },
     "Enable Seasonal Easter Eggs": {
       "comment": "Disable this is you don\u0027t want seasonal easter eggs",

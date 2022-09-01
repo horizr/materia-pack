@@ -212,11 +212,11 @@
 			"transfer_rates": {
 				"starter": 20,
 				"basic": 80,
-				"hardened": 200,
-				"blazing": 800,
-				"niotic": 2000,
-				"spirited": 8000,
-				"nitro": 40000
+				"hardened": 1000,
+				"blazing": 5000,
+				"niotic": 100000,
+				"spirited": 500000,
+				"nitro": 1000000
 			}
 		},
 		"dischargers": {
