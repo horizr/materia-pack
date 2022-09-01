@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#c:platinum_raw_ores",
+      "required": false
+    },
+    {
+      "id": "#c:raw_platinum_ores",
+      "required": false
+    }
+  ]
+}

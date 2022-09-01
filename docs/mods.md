@@ -54,7 +54,6 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `WTHIT` — looking-at HUD
 
 ### Compatibility
-- `CreatePlus` — `Create` + many tech-mods
 - `Indium` — `Lithium` + `Fabric Rendering API`
 - `Animatica` — animated textures
 - `Entity Texture Features` — random+emissive textures
