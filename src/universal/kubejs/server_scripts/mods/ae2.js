@@ -573,6 +573,25 @@ onEvent("recipes", event => {
 
     event.remove({ output: "ae2wtlib:magnet_card" })
     event.shapeless("ae2wtlib:magnet_card", ["ae2:annihilation_plane", "ae2:advanced_card", "kibe:magnet"])
+
+    event.remove({ id: "techreborn:grinder/fluix_dust" })
+    event.custom({
+        type: "techreborn:grinder",
+        power: 2,
+        time: 3 * 20,
+        ingredients: [
+            {
+                item: "ae2:fluix_crystal",
+                count: 1
+            }
+        ],
+        results: [
+            {
+                item: "ae2:fluix_dust",
+                count: 1
+            }
+        ]
+    })
 })
 
 onEvent("tags.items", event => {
