@@ -8,7 +8,6 @@ onEvent("rei.hide.items", event => {
         "breaker",
         "heater",
         "igniter",
-        "cursed_seeds",
         "diamond_ring",
         "angel_ring",
         "magma_ring",
