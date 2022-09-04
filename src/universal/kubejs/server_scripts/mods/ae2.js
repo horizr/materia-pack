@@ -460,15 +460,60 @@ onEvent("recipes", event => {
         })
     })
 
+    event.remove({ output: "ae2:quartz_fiber" })
+    ingredients = new Array(9).fill("#c:glass/colorless")
+    ingredients[0] = "#c:certus_quartz_dusts"
+    event.shapeless("8x ae2:quartz_fiber", ingredients)
+
     event.remove({ id: "ae2:network/cables/glass_fluix" })
     let ingredients = new Array(9).fill("ae2:quartz_fiber")
     ingredients[0] = "ae2:fluix_crystal"
     event.shapeless("8x ae2:fluix_glass_cable", ingredients)
 
-    event.remove({ output: "ae2:quartz_fiber" })
-    ingredients = new Array(9).fill("#c:glass/colorless")
-    ingredients[0] = "#c:certus_quartz_dusts"
-    event.shapeless("8x ae2:quartz_fiber", ingredients)
+    event.custom({
+        type: "techreborn:assembling_machine",
+        power: 20,
+        time: 3 * 20,
+        ingredients: [
+            {
+                count: 9,
+                item: "ae2:quartz_fiber"
+            },
+            {
+                count: 1,
+                tag: "c:fluix"
+            }
+        ],
+        results: [
+            {
+                count: 9,
+                item: "ae2:fluix_glass_cable"
+            }
+        ]
+    })
+
+    event.remove({ id: "ae2:network/cables/covered_fluix" })
+    event.custom({
+        type: "techreborn:assembling_machine",
+        power: 20,
+        time: 3 * 20,
+        ingredients: [
+            {
+                count: 9,
+                item: "ae2:fluix_glass_cable"
+            },
+            {
+                count: 1,
+                tag: "minecraft:wool"
+            }
+        ],
+        results: [
+            {
+                count: 9,
+                item: "ae2:fluix_covered_cable"
+            }
+        ]
+    })
 
     event.remove({ id: `ae2:network/parts/panels_semi_dark_monitor`})
     event.shaped("ae2:semi_dark_monitor", [
