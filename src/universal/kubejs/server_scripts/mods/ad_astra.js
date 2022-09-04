@@ -1,4 +1,10 @@
 onEvent("recipes", event => {
+    event.remove({ id: "ad_astra:recipes/steel_ingot_from_blasting_iron_ingot" })
+    event.replaceInput({ input: "ad_astra:steel_ingot" }, "ad_astra:steel_ingot", "#c:steel_ingots")
+
+    event.remove({ id: "ad_astra:compressing/compressed_steel_from_compressing_steel_ingot" })
+    event.replaceInput({ input: "ad_astra:compressed_steel" }, "ad_astra:compressed_steel", "#c:steel_plates")
+
     event.shapeless("ad_astra:space_painting", ["#c:desh_plates", "minecraft:painting"])
 
     event.replaceInput({ output: "ad_astra:space_helmet" }, "#c:steel_ingots", "#c:chromium_plates")
