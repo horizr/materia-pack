@@ -8,8 +8,6 @@ onEvent("rei.hide.items", event => {
         "breaker",
         "heater",
         "igniter",
-        "diamond_ring",
-        "angel_ring",
         "magma_ring",
         "water_ring",
         "light_ring",
@@ -27,12 +25,6 @@ onEvent("rei.hide.items", event => {
         "tank"
     ].forEach(name => {
         event.hide("kibe:" + name)
-    })
-
-    ;["basalt", "cobblestone"].forEach(stone => {
-        [1, 2, 3, 4, 5].forEach(mark => {
-            event.hide(`kibe:${stone}_generator_mk${mark}`)
-        })
     })
 
     ;[

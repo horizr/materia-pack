@@ -8,8 +8,6 @@ onEvent("recipes", event => {
         "breaker",
         "heater",
         "igniter",
-        "diamond_ring",
-        "angel_ring",
         "magma_ring",
         "water_ring",
         "light_ring",
@@ -27,12 +25,6 @@ onEvent("recipes", event => {
         "tank"
     ].forEach(name => {
         event.remove({ output: "kibe:" + name })
-    })
-
-    ;["basalt", "cobblestone"].forEach(stone => {
-        [1, 2, 3, 4, 5].forEach(mark => {
-            event.remove({ output: `kibe:${stone}_generator_mk${mark}` })
-        })
     })
 
     ;[
