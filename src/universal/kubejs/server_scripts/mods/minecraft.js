@@ -1,4 +1,4 @@
-onEvent("recipes", event => {
+ServerEvents.recipes(event => {
     event.remove({ output: "minecraft:compass" })
 
     event.shaped("minecraft:compass", [

@@ -1,4 +1,4 @@
-onEvent("rei.hide.items", event => {
+REIEvents.hide(event => {
     [
         "regular_conveyor_belt",
         "fast_conveyor_belt",

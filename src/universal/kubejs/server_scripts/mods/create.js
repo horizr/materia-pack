@@ -1,4 +1,4 @@
-onEvent("recipes", event => {
+ServerEvents.recipes(event => {
     event.remove({ id: "create:crushing/diorite" })
 
     event.custom({

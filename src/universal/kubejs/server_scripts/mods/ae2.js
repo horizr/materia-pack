@@ -1,4 +1,4 @@
-onEvent("recipes", event => {
+ServerEvents.recipes(event => {
     // All portable cells
     event.replaceInput({ input: "ae2:chest" }, "ae2:chest", "ae2:terminal")
 
@@ -639,12 +639,12 @@ onEvent("recipes", event => {
     })
 })
 
-onEvent("tags.items", event => {
+ServerEvents.tags("item", event => {
     event.add("c:glass/colorless", "ae2:quartz_glass")
     event.add("c:glass/colorless", "ae2:quartz_vibrant_glass")
 })
 
-onEvent("tags.blocks", event => {
+ServerEvents.tags("block", event => {
     event.add("c:glass/colorless", "ae2:quartz_glass")
     event.add("c:glass/colorless", "ae2:quartz_vibrant_glass")
 })

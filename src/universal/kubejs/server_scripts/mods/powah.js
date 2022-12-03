@@ -1,4 +1,4 @@
-onEvent("recipes", event => {
+ServerEvents.recipes(event => {
   event.remove({ output: "powah:dielectric_paste" })
 
   event.custom({

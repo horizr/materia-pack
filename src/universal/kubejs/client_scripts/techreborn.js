@@ -1,4 +1,4 @@
-onEvent("rei.hide.items", event => {
+REIEvents.hide(event => {
 	;[
 		"chunk_loader",
 		"tin_cable",

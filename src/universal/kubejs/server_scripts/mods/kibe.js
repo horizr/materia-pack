@@ -1,4 +1,4 @@
-onEvent("recipes", event => {
+ServerEvents.recipes(event => {
     [
         "regular_conveyor_belt",
         "fast_conveyor_belt",

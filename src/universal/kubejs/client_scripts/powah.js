@@ -1,4 +1,4 @@
-onEvent("rei.hide.items", event => {
+REIEvents.hide(event => {
 	;[
 		"powah:energy_cable_starter",
 		"powah:energy_cable_basic"

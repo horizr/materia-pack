@@ -1,4 +1,4 @@
-onEvent("recipes", event => {
+ServerEvents.recipes(event => {
     event.remove({ output: "buildinggadgets:gadget_building" })
     event.shaped("buildinggadgets:gadget_building", [
         "D ",

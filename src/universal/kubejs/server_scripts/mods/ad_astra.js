@@ -1,4 +1,4 @@
-onEvent("recipes", event => {
+ServerEvents.recipes(event => {
     event.remove({ id: "ad_astra:recipes/steel_ingot_from_blasting_iron_ingot" })
     event.replaceInput({ input: "ad_astra:steel_ingot" }, "ad_astra:steel_ingot", "#c:steel_ingots")
 

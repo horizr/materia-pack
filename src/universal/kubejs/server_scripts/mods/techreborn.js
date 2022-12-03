@@ -1,4 +1,4 @@
-onEvent("recipes", event => {
+ServerEvents.recipes(event => {
     event.remove({ id: "techreborn:grinder/diorite_dust_from_diorite"})
     event.remove({ id: "createplus:techreborn/pressing/zinc_plate"})
 
