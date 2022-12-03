@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "1.0.0",
-    "size": 72440,
-    "fileName": "one-time-overrides-v1.0.0.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/u8AlhlLv/versions/UdvdIyPk/one-time-overrides-v1.0.0.jar",
+    "name": "1.0.1",
+    "size": 72447,
+    "fileName": "one-time-overrides-v1.0.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/u8AlhlLv/versions/ZZtDiKT9/one-time-overrides-v1.0.1.jar",
     "hashes": {
-      "sha1": "56631238d09bfe30907850edb4ec571e825179a2",
-      "sha512": "8b107d316a1cca626b2bc1d289942903960cceeb4a549f1ecb27c90661637aa4f5a5e50d365c7e9b7ada283f327eb36fab05ae9accc391aae3946177039eaf05"
+      "sha1": "3c72a9de288a1fd83fec15f6db81f8e00b3ca688",
+      "sha512": "fa77e94748ea8bf2842e0a67e04aae7fec5a8923272cd32d0dc2212193ddff13be8dfda05533aa3a31703fa6e8c665b26bca741c2d51f503b2a0522e5c7e6e0a"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "u8AlhlLv",
-    "versionId": "UdvdIyPk",
+    "versionId": "ZZtDiKT9",
     "ignoreUpdates": false
   }
 }

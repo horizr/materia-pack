@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "2.3.2",
-    "size": 82789,
-    "fileName": "cullleaves-2.3.2.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.3.2/cullleaves-2.3.2.jar",
+    "name": "3.0.1-fabric",
+    "size": 81692,
+    "fileName": "cullleaves-fabric-3.0.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/GNxdLCoP/versions/EqasvEFc/cullleaves-fabric-3.0.1.jar",
     "hashes": {
-      "sha1": "9bc9c61f0a7dc6c765118a0527850b91847608cb",
-      "sha512": "e09a13efb20a36b7448fd3db688e2d810c00186a280be8f1e4ee2a1401267e544f981f8d8e042f15a00fef44abd9213a9eb46ffe3880b504c09ad5f5d532cf21"
+      "sha1": "6dc040a4fd2de8acb3ad37121710fc1e6d0843e9",
+      "sha512": "139fd4bf9e2dee8d61e32668a336771ffa75cacb0388554ab3f820788faeb805909f93dfd16f002128eedec57ae5bb6133d8e84082186fee71cd380023f42a7b"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "GNxdLCoP",
-    "versionId": "718Klypf",
+    "versionId": "EqasvEFc",
     "ignoreUpdates": false
   }
 }

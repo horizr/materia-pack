@@ -25,11 +25,20 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Adorn` — furniture
 - `Artisanat` — more block variations
 - `Bits And Chisels` — bit chiseling
+- `Cinderscapes` — more Nether biomes
 - `Decorative`
-- `Mo' Structures` — many new structures
+- `Infinity Buttons` — more buttons
+- `Lanterns Belong on Walls` — allows placing lanterns on walls
 - `Promenade` — biomes, mobs and ducks
-- `Terrestria` — biomes
+- `Terrestria` — more Overworld biomes
 - `Traverse` — biomes
+- `Towers of the Wild: Reworked` (data-pack) — BotW-like towers in the Overworld
+- `Towers of the Wild: Additions` — BotW-like towers in the Nether and the End
+- `Wilder Wild` — many enhancements
+- `YUNG's Better Desert Temples`
+- `YUNG's Better Dungeons`
+- `YUNG's Better Mineshafts`
+- `YUNG's Better Ocean Monuments`
 
 ### Technology
 - `Ad Astra` — space exploration
@@ -52,6 +61,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Reese's Sodium Options` — replaces the graphics settings
 - `Roughly Enough Items`
 - `WTHIT` — looking-at HUD
+- `Here be no Dragons!` — Disables the *experimental world settings* warning
 
 ### Compatibility
 - `Indium` — `Lithium` + `Fabric Rendering API`
@@ -59,22 +69,25 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Entity Texture Features` — random+emissive textures
 
 ### Miscellaneous
-- `Animal Feeding Trough`
 - `Auth Me` — in-game session re-validation
+- `Axes are Weapons` — allows sword enchantments for axes
+- `Campanion` — various camping-themed items
 - `Charm` — miscellaneous vanilla enhancements
 - `Charmonium` — better ambient sounds
 - `Culinaire` — more food items
 - `Debugify` — fixes various bugs
+- `Fabric Waystones` — waystones
 - `Kibe` — various items and blocks
-- `Not Enough Crashes` — go to title screen on crash
 - `No Telemetry` — disables telemetry
 - `st'ructure tools` — building gadgets
-- `Universal Graves` — graves
+- `You're in Grave Danger` — graves
 - `Zoomify` — zoom
 
 ### Modpack utilities
 - `OneTimeOverrides`
-- `KubeJS` — scripting
+- `KubeJS`
+- `Paxi`
+- `Main Menu Credits`
 
 ### Library
 - `Architectury API`
@@ -83,27 +96,33 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Dawn API`
 - `Fabric API`
 - `Fabric Language Kotlin`
-- `Feature NBT Deadlock Be Gone`
+- `oωo`
+- `TerraBlender` — semi-hard dependency of `Promenade`
 - `MidnightLib`
 - `Rhino`
+- `YUNG's API`
 
 ## Not included
 ### Experimental
 These mods would be in the pack if they were stable.
 - `Concurrent Chunk Management Engine` — multithreaded chunk management
 - `Consistency+`
+- `Immersive Portals`
 - `Resounding` — realistic sound physics
+- `Terra` — completely revamped world-gen
 
 ### Alternative used
 Bug-fixing mods are generally excluded because of `Debugify`.
-- `Better Recipe Book` → `Roughly Enough Items`
-- `DripSounds` → `Charmonium`
-- `EditSign` → `Charm`
-- `FPS - Display` → `Sodium`
-- `Health Care` → `WTHIT`
-- `LambDynamicLights` → `Iris Shaders`
+- `Better Recipe Book` --> `Roughly Enough Items`
+- `DripSounds` --> `Charmonium`
+- `EditSign` --> `Charm`
+- `FPS - Display` --> `Sodium`
+- `Health Care` --> `WTHIT`
+- `LambDynamicLights` --> `Iris Shaders`
+
+### Incompatible loader/version
+- `Animal Feeding Trough`
+- `Mo' Structures` — many new structures
 
 ## In consideration
-- `Sandwichable` — sandwiches
-- `Infernal Expansion`
-- `When Dungeons arise` — dungeons
+*None*

@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "3.5.0-fabric",
-    "size": 4208573,
-    "fileName": "Adorn-3.5.0+1.18.2-fabric.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.5.0-fabric/Adorn-3.5.0%2B1.18.2-fabric.jar",
+    "name": "3.7.0-fabric",
+    "size": 3935476,
+    "fileName": "Adorn-3.7.0+1.19.2-fabric.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/E6FUtRJh/versions/w75vVdsH/Adorn-3.7.0%2B1.19.2-fabric.jar",
     "hashes": {
-      "sha1": "54dc846236010b1e22bfdb6b7d06a669f6ccfb5a",
-      "sha512": "2e667f1bb140ed3f3609baeafc2f09df3df72c9656410f1a0fd34567d8e788d7ac892987f06ace9e87c28639bcd14df69e0f14d6d6e8826baee53ec00e9f8e1e"
+      "sha1": "c4dc742bd43579aeb0af230debe0633844dddc27",
+      "sha512": "09c3ca5b3109bda8bf35a53df7a965ee1dcb701462f991058c57347628fecb06b5b5b503debcbd21dd10684136381c9e109faa244aa4b55a297344d29ba85284"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "E6FUtRJh",
-    "versionId": "6N5U8wzl",
+    "versionId": "w75vVdsH",
     "ignoreUpdates": false
   }
 }

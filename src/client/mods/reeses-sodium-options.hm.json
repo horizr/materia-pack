@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "mc1.18.2-1.4.6",
-    "size": 49818,
-    "fileName": "reeses_sodium_options-1.4.6+mc1.18.2-build.54.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.18.2-1.4.6/reeses_sodium_options-1.4.6%2Bmc1.18.2-build.54.jar",
+    "name": "mc1.19.2-1.4.9",
+    "size": 49984,
+    "fileName": "reeses_sodium_options-1.4.9+mc1.19.2-build.67.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/Bh37bMuy/versions/hkSQ9RqT/reeses_sodium_options-1.4.9%2Bmc1.19.2-build.67.jar",
     "hashes": {
-      "sha1": "ea107cd96aac0944696f7dd1b6ffdf994fd0ec52",
-      "sha512": "2f7dedd6975688108f9ba9de86b80dd29d7ceba1997bc718ed6aae9f986add9a714421f028e92469f461907515b04258372cd3888470c3ef0a09ff7f8e805162"
+      "sha1": "3b48ed460ce30c38e6058fdd0c3d6a221913e4e4",
+      "sha512": "c9b5d1b8efdb388fb8a96f241097ab8dd3cf296a1e7ecf2004deaae237d84d7b75fde7439206cea6408bf5d43cf2d36522a344727a15d3cecd36779ee72e301e"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "Bh37bMuy",
-    "versionId": "tBapWg9r",
+    "versionId": "hkSQ9RqT",
     "ignoreUpdates": false
   }
 }

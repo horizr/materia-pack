@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "3.0.3",
+    "size": 14496537,
+    "fileName": "cinderscapes-3.0.3.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/QC4wcUXZ/versions/YXu2oSCB/cinderscapes-3.0.3.jar",
+    "hashes": {
+      "sha1": "e9a1b2d2f3a630aa43c47f0605adf2d551c67573",
+      "sha512": "d610d3d9607d77480e7fc8c5b7bb336f0d3a2c17edd6c755f1f0ae19e756d2fd838f517b627c066ea9811c813114e9a3a8c5a89d25e111dc7d03421f7118a968"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "QC4wcUXZ",
+    "versionId": "YXu2oSCB",
+    "ignoreUpdates": false
+  }
+}

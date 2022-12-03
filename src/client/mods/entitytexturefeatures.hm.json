@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "4.0.2.fabric.1.18",
-    "size": 1186681,
-    "fileName": "entity_texture_features_fabric_1.18.2-4.0.2.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/BVzZfTc1/versions/4.0.2.fabric.1.18/entity_texture_features_fabric_1.18.2-4.0.2.jar",
+    "name": "4.2.0.fabric.1.19",
+    "size": 359468,
+    "fileName": "entity_texture_features_fabric_1.19.2-4.2.0.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/BVzZfTc1/versions/66q1EPRX/entity_texture_features_fabric_1.19.2-4.2.0.jar",
     "hashes": {
-      "sha1": "36d4c7b2bb844d9c62e99cbd5b87b3125a6abdae",
-      "sha512": "1a57b14a903f77c55dcddd6b7b666a4d09e2e7e2b7daa0565d8164f77d60c829bd4bdd68d077fa90083c9ee15c825eb48c848c7671eb15d9cc481177331ddf5b"
+      "sha1": "6675b14106627aab49606f0d1273e6274f81544b",
+      "sha512": "d8f13617ad3d6b0525f2b5622b00e79d647305d618e99ea3abe1aa692ddebe773ccfc1c76d566d808586b6acd1c22aa919214ae217cb282a22e8623430f40f24"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "BVzZfTc1",
-    "versionId": "IpxKu0s8",
+    "versionId": "66q1EPRX",
     "ignoreUpdates": false
   }
 }

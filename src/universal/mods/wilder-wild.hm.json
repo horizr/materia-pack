@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "1.1.2-mc1.19.2",
+    "size": 55738119,
+    "fileName": "WilderWild-1.1.2-Fabric+1.19.2.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/AtHRJSUW/versions/SkuaIhx1/WilderWild-1.1.2-Fabric%2B1.19.2.jar",
+    "hashes": {
+      "sha1": "cc1cac3f74d8151979e857085cef531d1f95c427",
+      "sha512": "8db41b0fb8afb881fa646775a383599fe6748318c458b136e806b9b10ea0416bb4e8cb81fe5158540472ba18341b7f1671eba58a8c26cfd480c3b3f3b34eb22e"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "AtHRJSUW",
+    "versionId": "SkuaIhx1",
+    "ignoreUpdates": false
+  }
+}

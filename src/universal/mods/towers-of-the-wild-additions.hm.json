@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "1.2.3-1.19.x",
+    "size": 384762,
+    "fileName": "totw_additions-1.2.3-1.19.x-fabric.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/kzdWjLDh/versions/WJ8xR3fH/totw_additions-1.2.3-1.19.x-fabric.jar",
+    "hashes": {
+      "sha1": "c09dd466a5867748e84e88374c8615fab8e985cc",
+      "sha512": "baf2c3b50a6e601c5d48fcc6560072591cad2f3a779097eb88eb0f339310ef85c17306744d4390e0e889483c8a4154ad73422ef4da18ee60962c866d62b79a95"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "kzdWjLDh",
+    "versionId": "WJ8xR3fH",
+    "ignoreUpdates": false
+  }
+}

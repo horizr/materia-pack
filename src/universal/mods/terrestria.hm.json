@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "4.0.0-beta.1",
-    "size": 1859267,
-    "fileName": "terrestria-4.0.0-beta.1.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/lsUDPMOT/versions/3TPEMUhQ/terrestria-4.0.0-beta.1.jar",
+    "name": "5.0.7",
+    "size": 9064872,
+    "fileName": "terrestria-5.0.7.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/lsUDPMOT/versions/YOSkF6Jk/terrestria-5.0.7.jar",
     "hashes": {
-      "sha1": "99ad0ecbe51b630b009a382a9eeba7b58be8b8c9",
-      "sha512": "d96c33a4ef0381f81652d2ed3aa0113d94fff8c2cef0e7351021be3d924dccdd046112c876b13b1ba15d8ae293d6e152980f33b89fd1c1b587162b2abd9b6756"
+      "sha1": "7134aa866c4e9d3acca8000abc0a294013e8b7b6",
+      "sha512": "b0a84320506510404a0115d8c91c8c5832568160ed0f9e7b92f7b507a7a1eafd2e7999cac53eef68f47a13827ef44376f18ecc3f70f79230941310c6cd794a0b"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "lsUDPMOT",
-    "versionId": "3TPEMUhQ",
+    "versionId": "YOSkF6Jk",
     "ignoreUpdates": false
   }
 }

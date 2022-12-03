@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "4.2.0+1.18.2",
-    "size": 3413876,
-    "fileName": "charm-fabric-1.18.2-4.2.0.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/pOQTcQmj/versions/4.2.0+1.18.2/charm-fabric-1.18.2-4.2.0.jar",
+    "name": "4.4.4+1.19.2",
+    "size": 3968760,
+    "fileName": "charm-fabric-1.19.2-4.4.4.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/pOQTcQmj/versions/nGnXDTky/charm-fabric-1.19.2-4.4.4.jar",
     "hashes": {
-      "sha1": "ebb87cd7fa7935bc30e5ad0b379bb4ede8723a82",
-      "sha512": "3c8cd08ab1e37dcbf0f5a956cd20d84c98e58ab49fdc13faafb9c2af4dbf7fba7c8328cb5365997fe4414cfc5cb554ed13b3056a22df1c6bd335594f380facb6"
+      "sha1": "b1118b1b30508dab9aa1625facc8ea6e4a4f6a49",
+      "sha512": "1bf9cda7433c7038dcdd2ccc6fc43b467c67cc98c99d0c2a24b08b4196340a95d50a96fdbf5aa5c069d1c154766ae621b5464522058620190211eb6251b47d43"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "pOQTcQmj",
-    "versionId": "BT9G1Jjs",
+    "versionId": "nGnXDTky",
     "ignoreUpdates": false
   }
 }

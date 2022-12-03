@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "1.19.2-Fabric-2.2.1",
+    "size": 1015300,
+    "fileName": "YungsBetterDesertTemples-1.19.2-Fabric-2.2.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/XNlO7sBv/versions/L4h3G4u8/YungsBetterDesertTemples-1.19.2-Fabric-2.2.1.jar",
+    "hashes": {
+      "sha1": "4eb0c721127ba14c79f25d029ba34169471da923",
+      "sha512": "8509d9b863ac580c3038fae8be2dd9378517f2ef5801542eb643245be820a8876e4e22225fd8a030e788702e4f0fbcfe3ca007392eea08d10a7ec7157e3ac587"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "XNlO7sBv",
+    "versionId": "L4h3G4u8",
+    "ignoreUpdates": false
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "1.6.0-fabric-1.17.1",
+    "size": 21106,
+    "fileName": "AxesAreWeapons-1.6.0-fabric-1.17.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/1jvt7RTc/versions/1.6.0-fabric-1.17.1/AxesAreWeapons-1.6.0-fabric-1.17.1.jar",
+    "hashes": {
+      "sha1": "659548260c211fd4de050a57e70ebd0dfcf9aa57",
+      "sha512": "ec13ca613ea8d3f3bb8c082e2fd4e06e55ee0f1bca3d217ee8b997a36901f6fd262336df8be3e8f3ae08c292a0af874a20c052ad2e910d5ca2bb5011602142af"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "1jvt7RTc",
+    "versionId": "ydQr0dbh",
+    "ignoreUpdates": false
+  }
+}

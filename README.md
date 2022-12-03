@@ -27,12 +27,25 @@ The packwiz pack is available at `https://materia.horizr.xyz/pack.toml`.
 - Crops can't be trampled
 - Bats can be caught in buckets and let nearby entities glow for 20s when they are released
 - Enchantment books and potions are stackable (16)
+- Spyglass zooming can be adjusted by scrolling and there is a keybind for using it
 
 ## Development
 [horizr CLI](https://github.com/horizr/cli) is used for pack management.
 
 ### Not from Modrinth
 These must be manually updated:
-- [`Better Leaves` (resource-pack)](https://github.com/TeamMidnightDust/BetterLeavesPack) v6.2
+- [`Better Leaves` (resource-pack)](https://github.com/TeamMidnightDust/BetterLeavesPack) v7.1
+- [`Towers of the Wild: Reworked` (data-pack)](https://www.curseforge.com/minecraft/texture-packs/towers-of-the-wild-reworked-datapack) v4.0.2+fabric-waystones
+- [`TerraBlender`](https://www.curseforge.com/minecraft/mc-mods/terrablender-fabric) v2.0.1.130
 - [`Create Crafts & Additions`](https://www.curseforge.com/minecraft/mc-mods/createaddition) v20220813a
 - [`Tech Reborn`](https://github.com/TechReborn/TechReborn) v5.2.0
+
+### Interoperability entry-points
+When new items/blocks/entities/structures are added, the configuration files of the following mods should be adjusted (if necessary).
+
+- Charm: replantable crops, Bookcase items, structures on maps
+- WTHIT: blacklisted blocks and entities
+- Falling Leaves: leaves blocks
+
+### Reconfiguration needed
+*None*

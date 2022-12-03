@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "3.2.3",
-    "size": 422628,
-    "fileName": "modmenu-3.2.3.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/mOgUt4GM/versions/3.2.3/modmenu-3.2.3.jar",
+    "name": "4.1.1",
+    "size": 604293,
+    "fileName": "modmenu-4.1.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/mOgUt4GM/versions/4dReZoTJ/modmenu-4.1.1.jar",
     "hashes": {
-      "sha1": "463fecec40447519a9a32c1c178a962799583add",
-      "sha512": "e5cb08f55ad3b678a02bfe56c47b378cbfd92a5002807786d64eedf035c07ccbd68af5a72672ae159c18a3fe46871502aa281c0e9ef9e6731e1dca02fc942761"
+      "sha1": "ed592cc344f5437c56011d1d591d5734e3c6bda7",
+      "sha512": "5f909b2b969e7ce2151f6ad7b821621648449f3668678b7d630022b9689a82024dfab0456624a7345f2dfdca7da0a620527150547bf2c8247ab98c90904b5c20"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "mOgUt4GM",
-    "versionId": "cx9D94fU",
+    "versionId": "4dReZoTJ",
     "ignoreUpdates": false
   }
 }

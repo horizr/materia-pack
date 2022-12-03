@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "0.5+1.18.2",
-    "size": 74069,
-    "fileName": "animatica-0.5+1.18.2.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/PRN43VSY/versions/0.5+1.18.2/animatica-0.5%2B1.18.2.jar",
+    "name": "0.5+1.19",
+    "size": 74214,
+    "fileName": "animatica-0.5+1.19.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/PRN43VSY/versions/0.5%2B1.19/animatica-0.5%2B1.19.jar",
     "hashes": {
-      "sha1": "1073b1e722ea629ef72133cb9968156a0d8beeca",
-      "sha512": "3db21e015cd157b867c80d300a4c364ea399a29bfc62f802ea992995ff0d1c4c3f196922ac244ad74c283d3ba50c01c55ac3435fc7d9bde28c30c689f3d5a0c1"
+      "sha1": "d58560b9c226df726bdddc7ab25748a158a0cb3d",
+      "sha512": "c445bc7cb4b235af85193dba03c13142face27b5975558a8a39f81b1f2e98808a3ec528f4113cad076586685adbb2819b42cac0078e426ad07761b81ac76dc53"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "PRN43VSY",
-    "versionId": "GYUKcduK",
+    "versionId": "rghK1s60",
     "ignoreUpdates": false
   }
 }

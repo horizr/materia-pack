@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "1.2.4+1.18",
-    "size": 1142523,
-    "fileName": "lambdabettergrass-1.2.4+1.18.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.2.4+1.18/lambdabettergrass-1.2.4%2B1.18.jar",
+    "name": "1.3.0+1.19",
+    "size": 1176944,
+    "fileName": "lambdabettergrass-1.3.0+1.19.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.3.0%2B1.19/lambdabettergrass-1.3.0%2B1.19.jar",
     "hashes": {
-      "sha1": "941e27f095bd4a355ebf6f71212f378d4d7d5dca",
-      "sha512": "23b4d8013db11225dce178d648afaf424ee6381344779412fbef0c30503c9f07a08818e954aa0242fe3a6984d0db2a8fe95fedf8fd800c85f03718830014a6e6"
+      "sha1": "95847e7ac49fbccb679f7e8ede37835a0cd65bf2",
+      "sha512": "b414857a60f7bfb4dee0c39ed44e54f5053773e92ece229d9e257e7dc06f66608e7a331ef370a803ee6748658609f6216f7696f6a96614571ead5d1799a967c8"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "2Uev7LdA",
-    "versionId": "LpLEGUBZ",
+    "versionId": "UWFTYBmq",
     "ignoreUpdates": false
   }
 }

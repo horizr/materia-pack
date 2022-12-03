@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "1.19.2-Fabric-3.0",
+    "size": 99289,
+    "fileName": "Paxi-1.19.2-Fabric-3.0.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/CU0PAyzb/versions/PGslvGfk/Paxi-1.19.2-Fabric-3.0.jar",
+    "hashes": {
+      "sha1": "2765c0f2c14313bf46cc2ac86c035ef26a7ef9e0",
+      "sha512": "a6138dccda83cc9c9c8819b34faccf007d35c489081456c352f7926a692e757c365aaf6a56bab18658f2aacc9a4da4a6441ff05ad99b4c8ca544eefc5f0886fe"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "CU0PAyzb",
+    "versionId": "PGslvGfk",
+    "ignoreUpdates": false
+  }
+}

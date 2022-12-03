@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "4.1.2+fabric",
+    "size": 845465,
+    "fileName": "Campanion-fabric-1.19.2-4.1.2+fabric.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/Y2Rds0HS/versions/YBz3w2EU/Campanion-fabric-1.19.2-4.1.2%2Bfabric.jar",
+    "hashes": {
+      "sha1": "ce9ea9747a07a7fca748d78fa6be0f54042b3d76",
+      "sha512": "66806ad5ed09e85172b6326a270cfdc7e13a29e4d06a9b619083fc543859a574c702976fb7c7257c2cded0b6e246f15c8b179c636c268d16acd214b6c17cf425"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "Y2Rds0HS",
+    "versionId": "YBz3w2EU",
+    "ignoreUpdates": false
+  }
+}

@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "4.9.83+fabric",
-    "size": 572547,
-    "fileName": "architectury-4.9.83-fabric.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.9.83+fabric/architectury-4.9.83-fabric.jar",
+    "name": "6.3.56+fabric",
+    "size": 562569,
+    "fileName": "architectury-6.3.56-fabric.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/MGP3b9Aq/architectury-6.3.56-fabric.jar",
     "hashes": {
-      "sha1": "6cabe5458d7bd5006c650555767941a9c6ff05d1",
-      "sha512": "ab9aaee2d71d458958178050a76d7a414597530a9f1f0c206114319b61f7f65c5759a863bc67941f6ee874433d38f3c401e08200954b5ce999e797bc19baa74e"
+      "sha1": "7ab3aa9894a9b5314e978e1f2ad10c5a163a186c",
+      "sha512": "4d3a5bfe0f9095a79e8695950749a2c4a71d789c20ca06139ea709dc465fd19538911fff30bfea8aceec56cdb89ae04b16a557e2cd8e817217c3a06db56d9401"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "lhGA9TYQ",
-    "versionId": "BCLEdiJm",
+    "versionId": "MGP3b9Aq",
     "ignoreUpdates": false
   }
 }

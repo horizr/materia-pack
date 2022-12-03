@@ -63,14 +63,16 @@ key_raised.down:key.keyboard.unknown
 key_raised.up:key.keyboard.unknown
 key_raised.offset.down:key.keyboard.unknown
 key_raised.offset.up:key.keyboard.unknown
+key_raised.reset:key.keyboard.unknown
 key_key.waila.config:key.keyboard.unknown
 key_key.waila.show_overlay:key.keyboard.unknown
 key_key.waila.toggle_liquid:key.keyboard.unknown
 key_key.waila.show_recipe_input:key.keyboard.u
 key_key.waila.show_recipe_output:key.keyboard.r
 key_zoomify.key.zoom:key.keyboard.c
+key_zoomify.key.zoom.secondary:key.keyboard.unknown
 key_zoomify.key.gui:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
-soundCategory_music:0.5
+soundCategory_music:0.0

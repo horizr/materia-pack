@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "v2.1.0",
-    "size": 88824,
-    "fileName": "dynamic-fps-2.1.0.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.1.0/dynamic-fps-2.1.0.jar",
+    "name": "2.2.0",
+    "size": 89446,
+    "fileName": "dynamic-fps-2.2.0.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/2.2.0/dynamic-fps-2.2.0.jar",
     "hashes": {
-      "sha1": "d4ffc71b2f0ea01b9a6242c23faace5cdc72d947",
-      "sha512": "3e22e5b613abfb17fa83f74348a3c2cf8fb7bdb2a6a6a8d5b561044b37e54d0a0114df1128c7e34df063776975041c5595feb2f94cbb2bfe0f1bc59193cce9e3"
+      "sha1": "8d264374dc08df87777fb51b94c781476c315bb5",
+      "sha512": "a1758446706b095b1352851a68e45f0807fccd00cbc736db9c7275e6468ea07507b6f89e3ef16f0fa46c87797c5e246a364266d0266f36d7821c2979b5542347"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "LQ3K71Q1",
-    "versionId": "LttnLLIj",
+    "versionId": "g9FOSLTq",
     "ignoreUpdates": false
   }
 }

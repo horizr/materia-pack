@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "1.19.2-Fabric-3.2.0",
+    "size": 278685,
+    "fileName": "YungsBetterMineshafts-1.19.2-Fabric-3.2.0.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/HjmxVlSr/versions/g2waVAZy/YungsBetterMineshafts-1.19.2-Fabric-3.2.0.jar",
+    "hashes": {
+      "sha1": "ec5283f283237f090c6ffb1c032370f1c7344c96",
+      "sha512": "809307e55e4d5c6c9f85dda4c062584023d2b1cf4304a1dc22663e8c6ea966f724175b7b482dc3d8c7bfc861f6c2f2d927721dfd8ec93f1efab84a2e73d66fdd"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "HjmxVlSr",
+    "versionId": "g2waVAZy",
+    "ignoreUpdates": false
+  }
+}

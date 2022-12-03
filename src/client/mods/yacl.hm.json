@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "1.7.1",
+    "size": 146278,
+    "fileName": "YetAnotherConfigLib-1.7.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/1eAoo2KR/versions/mW3CVg5N/YetAnotherConfigLib-1.7.1.jar",
+    "hashes": {
+      "sha1": "9694c6e52e946820f9945e2b9ee8a463c1e426fd",
+      "sha512": "9c71c0b3b1ee8388f6a0fc3f1e07a5bf5fb63ce12c37248385c43a7cc29b8a540f75c25d3e64765f333812f37d47918a68e42b830391dca1e52f6f5f1c7540b4"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "1eAoo2KR",
+    "versionId": "mW3CVg5N",
+    "ignoreUpdates": false
+  }
+}

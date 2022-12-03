@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "Fabric-1.18.2-1.1.2",
-    "size": 23516,
-    "fileName": "raised-fabric-1.18.2-1.1.2.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/nCQRBEiR/versions/Fabric-1.18.2-1.1.2/raised-fabric-1.18.2-1.1.2.jar",
+    "name": "Fabric-1.19.2-1.1.4",
+    "size": 36573,
+    "fileName": "raised-fabric-1.19.2-1.1.4.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/nCQRBEiR/versions/41yzExMY/raised-fabric-1.19.2-1.1.4.jar",
     "hashes": {
-      "sha1": "2c140be8f4ab4646d62bc12dbcd1980fc68c0dba",
-      "sha512": "8ad6cd9e62b9de7717528cc9d024a6a22a2c3a9e19e4b1b27729b6b3ccbcac74388a9711734f143ae1416783a194b6b790f7ff411d8633b68797cdc4b87a4ee8"
+      "sha1": "e542bd322d42ceac68b306ccbf19eb216638c6e0",
+      "sha512": "3f3cf21a514e2511e638b49cfa4690174bd03d409edfd94ea3e5d5084e88aa3188a4948a53bc6c8fed966bc8edc766f3a5e1293dcd803a289c2ee3bb63af2341"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "nCQRBEiR",
-    "versionId": "4blSgtRD",
+    "versionId": "41yzExMY",
     "ignoreUpdates": false
   }
 }

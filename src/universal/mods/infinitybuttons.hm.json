@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "2.2.1",
+    "size": 821000,
+    "fileName": "infinitybuttons-2.2.1-mc1.19.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/2raGoXFz/versions/ivVA1dqR/infinitybuttons-2.2.1-mc1.19.jar",
+    "hashes": {
+      "sha1": "9b77b7f3dc1e818f332308751f0eb04f0eaf2f39",
+      "sha512": "eb0074e0e923509bcf8cd391e6a105dfe42d255b1436b9926c9b1e52fa335581b22988525b0845e62184d0c686768857b7bc6fab19952a3bcf7f0f18d8cc87ad"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "2raGoXFz",
+    "versionId": "ivVA1dqR",
+    "ignoreUpdates": false
+  }
+}
