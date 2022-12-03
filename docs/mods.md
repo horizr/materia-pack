@@ -32,6 +32,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Terrestria` — more Overworld biomes
 - `Towers of the Wild: Reworked` (data-pack) — BotW-like towers in the Overworld
 - `Towers of the Wild: Additions` — BotW-like towers in the Nether and the End
+- `When Dungeons Arise` — dungeon structures
 - `Wilder Wild` — many enhancements
 - `YUNG's Better Desert Temples`
 - `YUNG's Better Dungeons`
@@ -65,6 +66,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Entity Texture Features` — random+emissive textures
 
 ### Miscellaneous
+- `Advancements Debug` — fixes an advancements-related bug
 - `Auth Me` — in-game session re-validation
 - `Axes are Weapons` — allows sword enchantments for axes
 - `Campanion` — various camping-themed items
@@ -123,6 +125,7 @@ Bug-fixing mods are generally excluded because of `Debugify`.
 ### Incompatible loader/version
 - `AE2Things` — additions to `Applied Energistics`
 - `Animal Feeding Trough`
+- `Decorative` — decoration blocks
 - `Mo' Structures` — many new structures
 - `Portal Cubed` — Items and blocks from Portal
 

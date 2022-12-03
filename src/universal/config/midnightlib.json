@@ -1,5 +1,5 @@
 {
   "config_screen_list": "TRUE",
   "background_texture": "minecraft:textures/block/deepslate.png",
-  "special_hats": true
+  "special_hats": false
 }
