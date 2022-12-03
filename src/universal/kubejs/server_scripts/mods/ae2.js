@@ -4,15 +4,6 @@ ServerEvents.recipes(event => {
 
     event.replaceInput({ output: "ae2:quartz_glass" }, "#c:glass", "minecraft:glass")
 
-    event.remove({ output: "ae2:sky_compass" })
-    event.shaped("ae2:sky_compass", [
-        "Q",
-        "C"
-    ], {
-        Q: "ae2:charged_certus_quartz_crystal",
-        C: "minecraft:compass"
-    })
-
     event.remove({ output: "ae2:inscriber" })
     event.shaped("ae2:inscriber", [
         "IPI",
