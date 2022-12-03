@@ -6,7 +6,6 @@ ServerEvents.recipes(event => {
         " P "
     ], {
         I: { item: "minecraft:iron_ingot" },
-        R: { item: "powah:dielectric_rod" },
         P: { tag: "c:carbon_plates" }
     })
 })

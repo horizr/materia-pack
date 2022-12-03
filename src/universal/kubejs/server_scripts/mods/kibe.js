@@ -50,28 +50,6 @@ ServerEvents.recipes(event => {
         event.remove({ output: `kibe:${color}_glider` })
     })
 
-    event.custom({
-        type: "techreborn:chemical_reactor",
-        power: 25,
-        time: 30 * 20,
-        ingredients: [
-            {
-                count: 1,
-                item: "terrestria:basalt_dirt"
-            },
-            {
-                count: 4,
-                item: "charm:endermite_powder"
-            }
-        ],
-        results: [
-            {
-                count: 1,
-                item: "kibe:cursed_dirt"
-            }
-        ]
-    })
-
     event.remove({ output: "kibe:trash_can" })
     event.shaped("kibe:trash_can", [
         " I ",
@@ -81,16 +59,5 @@ ServerEvents.recipes(event => {
         I: "#c:iron_plates",
         S: "#c:steel_plates",
         C: "minecraft:cactus"
-    })
-
-    event.remove({ output: "kibe:magnet" })
-    event.shaped("kibe:magnet", [
-        "CIR",
-        "I  ",
-        "CIR"
-    ], {
-        C: "#c:red_dyes",
-        R: "powah:dielectric_rod_horizontal",
-        I: "minecraft:iron_ingot"
     })
 })

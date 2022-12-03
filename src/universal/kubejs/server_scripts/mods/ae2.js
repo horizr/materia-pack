@@ -4,23 +4,6 @@ ServerEvents.recipes(event => {
 
     event.replaceInput({ output: "ae2:quartz_glass" }, "#c:glass", "minecraft:glass")
 
-    event.custom({
-        type: "techreborn:extractor",
-        power: 5,
-        time: 3,
-        ingredients: [
-            {
-                item: "techreborn:rubber",
-            }
-        ],
-        results: [
-            {
-                item: "ae2:silicon",
-                count: 1
-            }
-        ]
-    })
-
     event.remove({ output: "ae2:sky_compass" })
     event.shaped("ae2:sky_compass", [
         "Q",
@@ -39,18 +22,7 @@ ServerEvents.recipes(event => {
         I: "minecraft:iron_ingot",
         P: "minecraft:sticky_piston",
         C: "#c:copper_ingots",
-        B: "techreborn:basic_machine_casing"
-    })
-
-    event.remove({ output: "ae2:charger" })
-    event.shaped("ae2:charger", [
-        "ICI",
-        "CB ",
-        "ICI"
-    ], {
-        I: "minecraft:iron_ingot",
-        C: "#c:copper_ingots",
-        B: "powah:dielectric_casing"
+        B: "modern_industrialization:steel_machine_casing"
     })
 
     event.remove({ output: "ae2:tiny_tnt" })
@@ -65,7 +37,7 @@ ServerEvents.recipes(event => {
         G: "#c:glass/colorless",
         T: "ae2:terminal",
         C: "#c:carbon_plates",
-        B: "techreborn:basic_machine_frame",
+        B: "modern_industrialization:steel_machine_casing",
         S: "ae2:cell_component_16k",
         P: "ae2:engineering_processor"
     })
@@ -82,7 +54,7 @@ ServerEvents.recipes(event => {
         I: "#c:iron_plates",
         P: "ae2:engineering_processor",
         C: "ae2:fluix_glass_cable",
-        B: "techreborn:basic_machine_frame"
+        B: "modern_industrialization:steel_machine_casing"
     })
 
     event.remove({ output: "ae2:chest" })
@@ -95,7 +67,7 @@ ServerEvents.recipes(event => {
         T: "ae2:terminal",
         I: "#c:iron_plates",
         C: "ae2:fluix_glass_cable",
-        B: "techreborn:basic_machine_frame",
+        B: "modern_industrialization:steel_machine_casing",
         D: "ae2:item_cell_housing",
         P: "ae2:logic_processor"
     })
@@ -121,34 +93,7 @@ ServerEvents.recipes(event => {
         S: "#c:silver_plates",
         E: "ae2:engineering_processor",
         P: "#c:steel_plates",
-        B: "techreborn:basic_machine_frame"
-    })
-
-    event.remove({ output: "ae2:io_port" })
-    event.shaped("ae2:io_port", [
-        "IPI",
-        "CFC",
-        "SDS"
-    ], {
-        I: "#c:refined_iron_plates",
-        P: "ae2:logic_processor",
-        C: "techreborn:data_storage_core",
-        F: "ae2:fluix_glass_cable",
-        D: "ae2:drive",
-        S: "#c:steel_plates"
-    })
-
-    event.remove({ output: "ae2:condenser" })
-    event.shaped("ae2:condenser", [
-        "FTF",
-        "TBT",
-        "SPS"
-    ], {
-        B: "techreborn:industrial_machine_casing",
-        T: "#c:tungsten_plates",
-        F: "#c:fluix_dusts",
-        S: "#c:steel_plates",
-        P: "minecraft:piston"
+        B: "modern_industrialization:steel_machine_casing"
     })
 
     event.remove({ id: "ae2:network/blocks/energy_energy_acceptor" })
@@ -164,17 +109,6 @@ ServerEvents.recipes(event => {
 
     event.remove({ output: "ae2:vibration_chamber" })
 
-    event.remove({ output: "ae2:quartz_growth_accelerator" })
-    event.shaped("ae2:quartz_growth_accelerator", [
-        "FPF",
-        "PBP",
-        "FPF"
-    ], {
-        F: "ae2:fluix_pearl",
-        P: "#c:carbon_plates",
-        B: "powah:dielectric_casing"
-    })
-
     event.remove({ output: "ae2:energy_cell" })
     event.shaped("ae2:energy_cell", [
         "CDC",
@@ -183,7 +117,7 @@ ServerEvents.recipes(event => {
     ], {
         C: "#c:certus_quartz",
         D: "#c:fluix_dusts",
-        B: "techreborn:basic_machine_frame"
+        B: "modern_industrialization:steel_machine_casing"
     })
 
     event.remove({ output: "ae2:crafting_unit" })
@@ -194,26 +128,12 @@ ServerEvents.recipes(event => {
     ], {
         C: "ae2:calculation_processor",
         F: "ae2:fluix_glass_cable",
-        B: "techreborn:basic_machine_frame",
+        B: "modern_industrialization:steel_machine_casing",
         L: "ae2:logic_processor"
     })
 
     event.remove({ output: "ae2:pattern_provider" })
     event.shapeless("ae2:pattern_provider", ["ae2:crafting_unit", "#ae2:interface"])
-
-    event.remove({ output: "ae2:molecular_assembler" })
-    event.shaped("ae2:molecular_assembler", [
-        "FGP",
-        "MBM",
-        "DMD"
-    ], {
-        F: "ae2:formation_core",
-        G: "ae2:quartz_glass",
-        P: "ae2:engineering_processor",
-        M: "techreborn:carbon_mesh",
-        B: "powah:dielectric_casing",
-        D: "ae2:fluix_crystal"
-    })
 
     event.replaceInput({ output: "ae2:spatial_anchor" }, "minecraft:iron_ingot", "#c:iron_plates")
 
@@ -226,19 +146,6 @@ ServerEvents.recipes(event => {
         N: "#c:iron_nuggets",
         S: "#c:wooden_rods",
         C: "#c:certus_quartz"
-    })
-
-    event.remove({ output: "ae2:matter_cannon" })
-    event.shaped("ae2:matter_cannon", [
-        "FRR",
-        " BS",
-        "  A"
-    ], {
-        R: "powah:dielectric_rod_horizontal",
-        F: "ae2:formation_core",
-        S: "ae2:cell_component_4k",
-        B: "#c:steel_nuggets",
-        A: "ae2:energy_cell"
     })
 
     event.remove({ output: "ae2:biometric_card" })
@@ -266,28 +173,6 @@ ServerEvents.recipes(event => {
 
     event.remove({ output: "ae2:blank_pattern" })
 
-    event.custom({
-        type: "techreborn:assembling_machine",
-        power: 20,
-        time: 4 * 20,
-        ingredients: [
-            {
-                count: 1,
-                item: "ae2:certus_quartz_crystal"
-            },
-            {
-                count: 2,
-                tag: "c:tin_plates"
-            }
-        ],
-        results: [
-            {
-                count: 1,
-                item: "ae2:blank_pattern"
-            }
-        ]
-    })
-
     event.remove({ output: "ae2:basic_card" })
     event.shaped("ae2:basic_card", [
         "PPL",
@@ -308,17 +193,6 @@ ServerEvents.recipes(event => {
         L: "ae2:logic_processor",
         C: "ae2:calculation_processor",
         D: "#c:diamonds"
-    })
-
-    event.remove({ output: "ae2:cell_component_1k" })
-    event.shaped("ae2:cell_component_1k", [
-        "MCM",
-        "CPC",
-        "MCM"
-    ], {
-        M: "techreborn:carbon_mesh",
-        C: "ae2:certus_quartz_crystal",
-        P: "ae2:logic_processor"
     })
 
     event.remove({ output: "ae2:cell_component_4k" })
@@ -394,28 +268,6 @@ ServerEvents.recipes(event => {
 
     event.remove({ output: "ae2:ender_dust" })
 
-    event.custom({
-        type: "techreborn:implosion_compressor",
-        power: 60,
-        time: 360 * 20,
-        ingredients: [
-            {
-                count: 1,
-                item: "ae2:singularity"
-            },
-            {
-                count: 2,
-                tag: "c:ender_pearl_dusts"
-            }
-        ],
-        results: [
-            {
-                count: 1,
-                item: "ae2:quantum_entangled_singularity"
-            }
-        ]
-    })
-
     event.remove({ id: `ae2:network/cells/view_cell`})
     event.shaped("ae2:view_cell", [
         " C ",
@@ -469,51 +321,6 @@ ServerEvents.recipes(event => {
     let ingredients = new Array(9).fill("ae2:quartz_fiber")
     ingredients[0] = "ae2:fluix_crystal"
     event.shapeless("8x ae2:fluix_glass_cable", ingredients)
-
-    event.custom({
-        type: "techreborn:assembling_machine",
-        power: 20,
-        time: 3 * 20,
-        ingredients: [
-            {
-                count: 9,
-                item: "ae2:quartz_fiber"
-            },
-            {
-                count: 1,
-                tag: "c:fluix"
-            }
-        ],
-        results: [
-            {
-                count: 9,
-                item: "ae2:fluix_glass_cable"
-            }
-        ]
-    })
-
-    event.remove({ id: "ae2:network/cables/covered_fluix" })
-    event.custom({
-        type: "techreborn:assembling_machine",
-        power: 20,
-        time: 3 * 20,
-        ingredients: [
-            {
-                count: 9,
-                item: "ae2:fluix_glass_cable"
-            },
-            {
-                count: 1,
-                tag: "minecraft:wool"
-            }
-        ],
-        results: [
-            {
-                count: 9,
-                item: "ae2:fluix_covered_cable"
-            }
-        ]
-    })
 
     event.remove({ id: `ae2:network/parts/panels_semi_dark_monitor`})
     event.shaped("ae2:semi_dark_monitor", [
@@ -599,7 +406,7 @@ ServerEvents.recipes(event => {
     //     S: "#c:steel_plates",
     //     I: "ae2:inscriber",
     //     P: "ae2:engineering_processor",
-    //     B: "techreborn:advanced_machine_casing"
+    //     B: "modern_industrialization:steel_machine_casing"
     // })
 
     // event.remove({ output: "ae2things:crystal_growth" })
@@ -610,7 +417,7 @@ ServerEvents.recipes(event => {
     // ], {
     //     A: "ae2:quartz_growth_accelerator",
     //     S: "#c:steel_plates",
-    //     B: "techreborn:advanced_machine_casing",
+    //     B: "modern_industrialization:steel_machine_casing",
     //     C: "#c:carbon_plates"
     // })
 
@@ -618,25 +425,6 @@ ServerEvents.recipes(event => {
 
     event.remove({ output: "ae2wtlib:magnet_card" })
     event.shapeless("ae2wtlib:magnet_card", ["ae2:annihilation_plane", "ae2:advanced_card", "kibe:magnet"])
-
-    event.remove({ id: "techreborn:grinder/fluix_dust" })
-    event.custom({
-        type: "techreborn:grinder",
-        power: 2,
-        time: 3 * 20,
-        ingredients: [
-            {
-                item: "ae2:fluix_crystal",
-                count: 1
-            }
-        ],
-        results: [
-            {
-                item: "ae2:fluix_dust",
-                count: 1
-            }
-        ]
-    })
 })
 
 ServerEvents.tags("item", event => {

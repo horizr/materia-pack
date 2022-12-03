@@ -45,9 +45,8 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `CC: Restitched` — computers
 - `Create` — steampunk machines
 - `Create Crafts & Additions` — additions to `Create`
-- `Powah`
+- `Modern Industrialization` — stand-alone tech mod
 - `Sync` — controllable player clones
-- `Tech Reborn` — standalone tech-mod
 
 ### GUI
 - `AppleSkin` — hunger/health-related HUD improvements
