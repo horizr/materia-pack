@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "1.0.22",
-    "size": 864744,
-    "fileName": "structure-tools-1.0.22.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/uD5WhhmK/versions/1.0.22/structure-tools-1.0.22.jar",
+    "name": "1.0.30",
+    "size": 863168,
+    "fileName": "structure-tools-1.0.30.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/uD5WhhmK/versions/1.0.30/structure-tools-1.0.30.jar",
     "hashes": {
-      "sha1": "3ae828251c6158668ebda7be9c394b1b406c1424",
-      "sha512": "a0ba0eff1eed242284b941161bc976cebed4eab88c05ece095e2eed1b31cb9fc687d1097da20536a819b9c324842b151331b675b5f8f3384a870e07807c1c9b3"
+      "sha1": "189c03feb71e8e30f699863e7acf7658725ee718",
+      "sha512": "683130d8d8f88caa4cff7ba929c59adee659800738c436976c2c968fecca80bd8e9b5b62106b5bfc9a90a153c38ea9902ee2d469c7c3fd1b96a2e62d47419c00"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "uD5WhhmK",
-    "versionId": "Steux2ks",
+    "versionId": "XWxHBdjK",
     "ignoreUpdates": false
   }
 }

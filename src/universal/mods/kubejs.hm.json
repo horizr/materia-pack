@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "1802.5.4-build.535+fabric",
-    "size": 1006528,
-    "fileName": "kubejs-fabric-1802.5.4-build.535.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/umyGl7zF/versions/xXAtessU/kubejs-fabric-1802.5.4-build.535.jar",
+    "name": "1902.6.0-build.128+fabric",
+    "size": 1033309,
+    "fileName": "kubejs-fabric-1902.6.0-build.128.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/umyGl7zF/versions/2Esx1zg8/kubejs-fabric-1902.6.0-build.128.jar",
     "hashes": {
-      "sha1": "906ab5a2c4ddac3e231d4c62e03a975468e5041a",
-      "sha512": "f58a8e0e4cc3abb2015c14e1ce70c1218a1b6be1e271cfa45da49f59d57d3310f2ec078f90cd5dad7381f8a325d9990d46fe6576a2c79e8decfb6b64c3510cd3"
+      "sha1": "5820af4f6a55b9d89d2b9d41c47184f403eecb14",
+      "sha512": "c4a6168e1daa2476e1145229a33a30d1a5e9f742e353e5c8b66706edaba562defa2973f9a0249c8258ffe71716af4c15781b4fdb6a58c78fb45c4282a33f0e47"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "umyGl7zF",
-    "versionId": "xXAtessU",
+    "versionId": "2Esx1zg8",
     "ignoreUpdates": false
   }
 }

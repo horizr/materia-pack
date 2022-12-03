@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "1.0.4",
-    "size": 5674028,
-    "fileName": "ad-astra-1.0.0.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/3ufwT9JF/versions/1.0.5/ad-astra-1.0.0.jar",
+    "name": "1.11.8",
+    "size": 10442981,
+    "fileName": "ad_astra-fabric-1.19.2-1.11.8.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/3ufwT9JF/versions/MbvFLPDw/ad_astra-fabric-1.19.2-1.11.8.jar",
     "hashes": {
-      "sha1": "069f897a444954b71d96791e796e0a3e2028bcc2",
-      "sha512": "f4f08d07aafe17a89233b15cc4fb9c0372b224b82cb02cf1ed31259ad28f9815c82ab0cd153c32f1ed70720ecec88b397de28b590c9fe2751140164aab391ef6"
+      "sha1": "58e76996b0c9c26dbe67f23a03771a18ce7af034",
+      "sha512": "511b59f9993529383be676ce06ce19f405d4272f3ae3fc545215866c9247d4afa0bab0aabf39475e06fddd251e280ee6184cfc1ffe7247743a25e93a899ebfeb"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "3ufwT9JF",
-    "versionId": "tSm8mJ5H",
+    "versionId": "MbvFLPDw",
     "ignoreUpdates": false
   }
 }

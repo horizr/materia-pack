@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "1.1.17",
+    "size": 207178,
+    "fileName": "resourcefullib-fabric-1.19.2-1.1.17.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/G1hIVOrD/versions/311DNGtu/resourcefullib-fabric-1.19.2-1.1.17.jar",
+    "hashes": {
+      "sha1": "267a9aea718c5706f8e8aa7e7219ee985ec6e7f5",
+      "sha512": "d89059c30bd4f9da4c16d68b6b80dce30e5d19033364b98b0b26d69d7a1131bb385246b25aaf4224940585c27786a88c6c51829a081729859406207e18ed8ecf"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "G1hIVOrD",
+    "versionId": "311DNGtu",
+    "ignoreUpdates": false
+  }
+}

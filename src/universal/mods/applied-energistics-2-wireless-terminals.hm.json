@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "11.1.4-fabric",
-    "size": 208088,
-    "fileName": "AE2WTLib-11.1.4.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/pNabrMMw/versions/11.1.4-fabric/AE2WTLib-11.1.4.jar",
+    "name": "12.8.4-fabric",
+    "size": 204430,
+    "fileName": "AE2WTLib-12.8.4.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/pNabrMMw/versions/uSTNPmOl/AE2WTLib-12.8.4.jar",
     "hashes": {
-      "sha1": "7263a0cc8903f666ad4eb3db694d8be08b4f296a",
-      "sha512": "e497b5f61ba1c2b10f3a0c2c468e1c9709bcc39851427976b78b3433e3d92f03b9c86e32845987a41fd00e13f4f2208ecb8de98a8a92642b816f7821b320d257"
+      "sha1": "3d490a580e4e183d8653fc60f47ed5496201ba5f",
+      "sha512": "1db5231ef66a4ab39f292c3cbd55b115baf97c2e59fe3b3749f6b3b3a302c1b1e2e83b1de23a91cdca3d5164644e5c2d985166b45fdc6d6a3085f586f4a194ed"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "pNabrMMw",
-    "versionId": "6qVA8kLw",
+    "versionId": "uSTNPmOl",
     "ignoreUpdates": false
   }
 }

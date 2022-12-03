@@ -3,19 +3,19 @@
   "enabled": false,
   "comment": "Does not work and the repository is inactive.",
   "version": {
-    "name": "6.1.0-fabric",
-    "size": 856810,
-    "fileName": "light-overlay-6.1.0-fabric.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/YfOlc91N/versions/6.1.0-fabric/light-overlay-6.1.0-fabric.jar",
+    "name": "7.0.0+fabric",
+    "size": 62616,
+    "fileName": "light-overlay-7.0.0.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/YfOlc91N/versions/7.0.0%2Bfabric/light-overlay-7.0.0.jar",
     "hashes": {
-      "sha1": "b69488a9bf61f7787a2db9a5dad54c5cf9e1cd66",
-      "sha512": "7d293fb0ba49aca8a3291ae72c371b2bfa05f4823daccc1d1774fc0266a47dbf9644058851863957106766bfb7d14b3d477015e7550062a3ef9d53f24708b6b1"
+      "sha1": "188fbcfdc097b1a5309f1588270d075627c84a96",
+      "sha512": "09fd48d2eb23123e8d28098785b19b7be08b4c161a96bcf826e27e926bca7f4fda6101c2c0baa51c5265c645c2b1314e2a697f5b97fc8a4b4142e050d40c79e5"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "YfOlc91N",
-    "versionId": "VyRVRcRk",
+    "versionId": "8MLUOCy0",
     "ignoreUpdates": false
   }
 }

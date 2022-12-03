@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "1.7.12",
+    "size": 125673,
+    "fileName": "botarium-fabric-1.19.2-1.7.12.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/2u6LRnMa/versions/ug2UtVUo/botarium-fabric-1.19.2-1.7.12.jar",
+    "hashes": {
+      "sha1": "66aadc9ff699af7df997044188199f5baa3d8a61",
+      "sha512": "f32429ad8a635ad1b8573cd419eaef10aaecf4941d55445059407a54174e2542802c39b15c039445c91517de73197770596f8630dd438060c83547b9e125b102"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "2u6LRnMa",
+    "versionId": "ug2UtVUo",
+    "ignoreUpdates": false
+  }
+}

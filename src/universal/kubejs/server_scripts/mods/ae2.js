@@ -548,71 +548,71 @@ onEvent("recipes", event => {
     event.replaceInput({ output: "ae2:annihilation_plane" }, "minecraft:iron_ingot", "#c:refined_iron_plates")
     event.replaceInput({ output: "ae2:formation_plane" }, "minecraft:iron_ingot", "#c:refined_iron_plates")
 
-    event.remove({ output: "ae2things:cell_component_1024k" })
-    event.shaped("ae2things:cell_component_1024k", [
-        " C ",
-        "CPC",
-        " C "
-    ], {
-        C: "ae2:cell_component_256k",
-        P: "ae2:calculation_processor"
-    })
+    // event.remove({ output: "ae2things:cell_component_1024k" })
+    // event.shaped("ae2things:cell_component_1024k", [
+    //     " C ",
+    //     "CPC",
+    //     " C "
+    // ], {
+    //     C: "ae2:cell_component_256k",
+    //     P: "ae2:calculation_processor"
+    // })
 
-    event.remove({ output: "ae2things:cell_component_4096k" })
-    event.shaped("ae2things:cell_component_4096k", [
-        " C ",
-        "CPC",
-        " C "
-    ], {
-        C: "ae2things:cell_component_1024k",
-        P: "ae2:calculation_processor"
-    })
+    // event.remove({ output: "ae2things:cell_component_4096k" })
+    // event.shaped("ae2things:cell_component_4096k", [
+    //     " C ",
+    //     "CPC",
+    //     " C "
+    // ], {
+    //     C: "ae2things:cell_component_1024k",
+    //     P: "ae2:calculation_processor"
+    // })
 
-    ;[1024, 4096].forEach(size => {
-        event.remove({ id: `ae2things:cells/item/item_cell_${size}k`})
-        event.shaped(`ae2things:item_storage_cell_${size}k`, [
-            " C ",
-            "CXC",
-            " C "
-        ], {
-            C: "#c:tin_plates",
-            X: `ae2things:cell_component_${size}k`
-        })
+    // ;[1024, 4096].forEach(size => {
+    //     event.remove({ id: `ae2things:cells/item/item_cell_${size}k`})
+    //     event.shaped(`ae2things:item_storage_cell_${size}k`, [
+    //         " C ",
+    //         "CXC",
+    //         " C "
+    //     ], {
+    //         C: "#c:tin_plates",
+    //         X: `ae2things:cell_component_${size}k`
+    //     })
 
-        event.remove({ id: `ae2things:cells/fluid/fluid_cell_${size}k`})
-        event.shaped(`ae2things:fluid_storage_cell_${size}k`, [
-            " C ",
-            "CXC",
-            " C "
-        ], {
-            C: "#c:copper_plates",
-            X: `ae2things:cell_component_${size}k`
-        })
-    })
+    //     event.remove({ id: `ae2things:cells/fluid/fluid_cell_${size}k`})
+    //     event.shaped(`ae2things:fluid_storage_cell_${size}k`, [
+    //         " C ",
+    //         "CXC",
+    //         " C "
+    //     ], {
+    //         C: "#c:copper_plates",
+    //         X: `ae2things:cell_component_${size}k`
+    //     })
+    // })
 
-    event.remove({ output: "ae2things:advanced_inscriber" })
-    event.shaped("ae2things:advanced_inscriber", [
-        "SIS",
-        "PBP",
-        "SIS"
-    ], {
-        S: "#c:steel_plates",
-        I: "ae2:inscriber",
-        P: "ae2:engineering_processor",
-        B: "techreborn:advanced_machine_casing"
-    })
+    // event.remove({ output: "ae2things:advanced_inscriber" })
+    // event.shaped("ae2things:advanced_inscriber", [
+    //     "SIS",
+    //     "PBP",
+    //     "SIS"
+    // ], {
+    //     S: "#c:steel_plates",
+    //     I: "ae2:inscriber",
+    //     P: "ae2:engineering_processor",
+    //     B: "techreborn:advanced_machine_casing"
+    // })
 
-    event.remove({ output: "ae2things:crystal_growth" })
-    event.shaped("ae2things:crystal_growth", [
-        "ASA",
-        "SBS",
-        "CSC"
-    ], {
-        A: "ae2:quartz_growth_accelerator",
-        S: "#c:steel_plates",
-        B: "techreborn:advanced_machine_casing",
-        C: "#c:carbon_plates"
-    })
+    // event.remove({ output: "ae2things:crystal_growth" })
+    // event.shaped("ae2things:crystal_growth", [
+    //     "ASA",
+    //     "SBS",
+    //     "CSC"
+    // ], {
+    //     A: "ae2:quartz_growth_accelerator",
+    //     S: "#c:steel_plates",
+    //     B: "techreborn:advanced_machine_casing",
+    //     C: "#c:carbon_plates"
+    // })
 
     event.remove({ output: "ae2wtlib:infinity_booster_card" })
 

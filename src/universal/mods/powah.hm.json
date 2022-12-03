@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "3.0.4-beta-fabric",
-    "size": 1901463,
-    "fileName": "Powah-3.0.4-beta.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/KZO4S4DO/versions/3.0.4-beta-fabric/Powah-3.0.4-beta.jar",
+    "name": "4.0.5-fabric",
+    "size": 1936026,
+    "fileName": "Powah-4.0.5.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/KZO4S4DO/versions/6HJj9GWP/Powah-4.0.5.jar",
     "hashes": {
-      "sha1": "f959a1437479be54e3f35a1dbd6e04a3401c4c08",
-      "sha512": "a5911d0aee09279930217d89fa52f7c9ff76d4624d6c12752200f333e7798abdaaa5ee9712780eaa19b4dac1d47df71a853cf6c0c5c3b5ed742d959ec6d603ed"
+      "sha1": "9c59076d2ea3557d6f8bb85dddcda990ec0f7114",
+      "sha512": "a10cf08a3a0da3628848e6f1d4fe7daeb0e8bb2334f256a1cd70a83e84db48b98539ca45f2efec73a332aee79669baef764493ccb5add07e7198ba4ddda86c49"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "KZO4S4DO",
-    "versionId": "sM062BcO",
+    "versionId": "6HJj9GWP",
     "ignoreUpdates": false
   }
 }

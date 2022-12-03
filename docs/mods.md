@@ -24,14 +24,12 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 ### World-gen & decoration
 - `Adorn` — furniture
 - `Artisanat` — more block variations
-- `Bits And Chisels` — bit chiseling
 - `Cinderscapes` — more Nether biomes
 - `Decorative`
 - `Infinity Buttons` — more buttons
 - `Lanterns Belong on Walls` — allows placing lanterns on walls
 - `Promenade` — biomes, mobs and ducks
 - `Terrestria` — more Overworld biomes
-- `Traverse` — biomes
 - `Towers of the Wild: Reworked` (data-pack) — BotW-like towers in the Overworld
 - `Towers of the Wild: Additions` — BotW-like towers in the Nether and the End
 - `Wilder Wild` — many enhancements
@@ -44,24 +42,23 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Ad Astra` — space exploration
 - `Automobility` — customizable vehicles
 - `Applied Energistics` — storage
-- `AE2Things` — additions to `Applied Energistics`
 - `CC: Restitched` — computers
 - `Create` — steampunk machines
 - `Create Crafts & Additions` — additions to `Create`
-- `Portal Cubed` — Items and blocks from Portal
 - `Powah`
 - `Sync` — controllable player clones
 - `Tech Reborn` — standalone tech-mod
 
 ### GUI
 - `AppleSkin` — hunger/health-related HUD improvements
+- `Here be no Dragons!` — disables the *experimental world settings* warning
 - `JourneyMap` — HUD map
 - `Mod Menu` — adds a mod menu
+- `Paginated Advancements` — improved advancements screen
 - `Raised` — fixes the hotbar position
 - `Reese's Sodium Options` — replaces the graphics settings
 - `Roughly Enough Items`
 - `WTHIT` — looking-at HUD
-- `Here be no Dragons!` — Disables the *experimental world settings* warning
 
 ### Compatibility
 - `Indium` — `Lithium` + `Fabric Rendering API`
@@ -77,7 +74,9 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Culinaire` — more food items
 - `Debugify` — fixes various bugs
 - `Fabric Waystones` — waystones
+- `Ice Boat nerf` — makes boats slow on ice
 - `Kibe` — various items and blocks
+- `Light Overlay`
 - `No Telemetry` — disables telemetry
 - `st'ructure tools` — building gadgets
 - `You're in Grave Danger` — graves
@@ -99,6 +98,8 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `oωo`
 - `TerraBlender` — semi-hard dependency of `Promenade`
 - `MidnightLib`
+- `Resourceful Config`
+- `Resourceful Lib`
 - `Rhino`
 - `YUNG's API`
 
@@ -121,8 +122,10 @@ Bug-fixing mods are generally excluded because of `Debugify`.
 - `LambDynamicLights` --> `Iris Shaders`
 
 ### Incompatible loader/version
+- `AE2Things` — additions to `Applied Energistics`
 - `Animal Feeding Trough`
 - `Mo' Structures` — many new structures
+- `Portal Cubed` — Items and blocks from Portal
 
 ## In consideration
 *None*

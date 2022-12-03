@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "create-1.18.2-0.5.0c-708",
-    "size": 15618355,
-    "fileName": "create-1.18.2-0.5.0c-708.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/Xbc0uyRg/versions/create-1.18.2-0.5.0c-708/create-1.18.2-0.5.0c-708.jar",
+    "name": "0.5.0g-796+1.19.2",
+    "size": 16987725,
+    "fileName": "create-fabric-0.5.0g-796+1.19.2.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/Xbc0uyRg/versions/ZOucvJwc/create-fabric-0.5.0g-796%2B1.19.2.jar",
     "hashes": {
-      "sha1": "57898d9d6be6dde0b9ed857487d8c6178774cc1a",
-      "sha512": "4b467657534aeb95e1df54a3a3eed92f0705143e1937318b9a8aff8ad0a00b6fd9010cbf9b6b0ef3bc22a6152fe4573a53e54a0554a7a5998fc877ec44051ca5"
+      "sha1": "280192d5e45bb9b8bf06e3c10e723d3d976a60d1",
+      "sha512": "eca531efd09e486dc0b4bb8e84d3dfa4332e6bc8becbfbd2bce86908f67aa73d6b634b9c9cd115d0a3176a2964a92855f26216fff064a06631ba7ed3ff8c5959"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "Xbc0uyRg",
-    "versionId": "j7rLltXv",
+    "versionId": "ZOucvJwc",
     "ignoreUpdates": false
   }
 }

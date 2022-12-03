@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "2.1.50",
-    "size": 5904416,
-    "fileName": "DungeonsArise-1.18.2-2.1.50-fabric-beta.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/8DfbfASn/versions/2.1.50/DungeonsArise-1.18.2-2.1.50-fabric-beta.jar",
+    "name": "1.19-2.1.51",
+    "size": 5863964,
+    "fileName": "DungeonsArise-1.19-2.1.51-fabric-beta-hf.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/8DfbfASn/versions/1.19-2.1.51/DungeonsArise-1.19-2.1.51-fabric-beta-hf.jar",
     "hashes": {
-      "sha1": "2f1895d44ee851cb44892a9e89f7eee04e993f8a",
-      "sha512": "81e07e148f9c74819d765589aeb51445bc8b86f7ecac89145a44bf5ac11118ad5daa414d1215d26af3da721195b00a7d2a5595466fb8602baa8b3ab223985216"
+      "sha1": "bdd5db66c011e53238d4560addc9c81b4f497285",
+      "sha512": "4917dc78dfbe95ee07624bf79c8830e606dc58783b151fc70143f6523c0e5fb118d7156b77e905943258a7531e2cd4c7befabda9ca3440dcc297775c1e044c0d"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "8DfbfASn",
-    "versionId": "jSukFXIg",
+    "versionId": "Qtvjt3qS",
     "ignoreUpdates": false
   }
 }

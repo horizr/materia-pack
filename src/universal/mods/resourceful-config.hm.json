@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "1.0.11",
+    "size": 62573,
+    "fileName": "resourcefulconfig-fabric-1.19.2-1.0.11.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/M1953qlQ/versions/CC4DR9Ew/resourcefulconfig-fabric-1.19.2-1.0.11.jar",
+    "hashes": {
+      "sha1": "3e0afca0e8dc8e34c62a7dadf07eaa6d9f3cf568",
+      "sha512": "3aae2b7c634317c6d85a657a41ecaedf129fd70496c846d976c393bb605317c0bbdc5b9212b82360ed6908871aa777a1fcccd6598167197c22833a7eb6f21967"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "M1953qlQ",
+    "versionId": "CC4DR9Ew",
+    "ignoreUpdates": false
+  }
+}

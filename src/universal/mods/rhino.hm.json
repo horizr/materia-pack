@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "1802.1.14-build.225+fabric",
-    "size": 1074964,
-    "fileName": "rhino-fabric-1802.1.14-build.225.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/sk9knFPE/versions/ayMmZeEm/rhino-fabric-1802.1.14-build.225.jar",
+    "name": "1902.2.2-build.264+fabric",
+    "size": 1694543,
+    "fileName": "rhino-fabric-1902.2.2-build.264.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/sk9knFPE/versions/7nlytiXr/rhino-fabric-1902.2.2-build.264.jar",
     "hashes": {
-      "sha1": "e7f129280b71804527a50d32455d12f720f283f2",
-      "sha512": "0b5fca81e2ae9d3f9d5d50f121d9536087e65c2cc4a8b53ca9efc81df2904debc8edd1966b25f4a8e251f0a0ff5bd60b9aff3743f134dd00455fb865d914939f"
+      "sha1": "c9225d19f74cb7b999ddfa9f278f6906ef143ce0",
+      "sha512": "83ddd86717a96837facab489aa587c06a2711ffef3f811063bcde0e99ecfb5c9fde4ce5f86212f6dfe92c29db58387e9bb785d9992d4edc3f1d554db86800637"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "sk9knFPE",
-    "versionId": "ayMmZeEm",
+    "versionId": "7nlytiXr",
     "ignoreUpdates": false
   }
 }

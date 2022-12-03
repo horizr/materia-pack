@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "1.100.8+1.18.2",
-    "size": 3180756,
-    "fileName": "cc-restitched-1.100.8.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/eldBwa5V/versions/1.100.8+1.18.2/cc-restitched-1.100.8.jar",
+    "name": "1.101.2+1.19.1",
+    "size": 2978418,
+    "fileName": "cc-restitched-1.101.2.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/eldBwa5V/versions/1.101.2%2B1.19.1/cc-restitched-1.101.2.jar",
     "hashes": {
-      "sha1": "3c2291e1b3b7bcc238a2c38522afc274c5f83525",
-      "sha512": "bec72cdc36387218b254213f91e6077fa2e9bf715cb3add4652ec952b628db3371c96b0fb29facd5dd46e6df9ff2cc95ca735d5ac3a99ef4d5e7ecc403b0d012"
+      "sha1": "428b306c317e38d5829972f1944c873858b740da",
+      "sha512": "c1c3b80489ce7341135c06dadf9a9f344ad4ef5165699aa56364e7cb4d585b0b02a3407a3bb7f3884b0cd33655362e04c247c2c0b7dbfc9faa69d3564ce3f30a"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "eldBwa5V",
-    "versionId": "FbQHIk33",
+    "versionId": "3S6HU7nl",
     "ignoreUpdates": false
   }
 }
