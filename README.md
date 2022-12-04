@@ -37,7 +37,6 @@ These must be manually updated:
 - [`Towers of the Wild: Reworked` (data-pack)](https://www.curseforge.com/minecraft/texture-packs/towers-of-the-wild-reworked-datapack) v4.0.2+fabric-waystones
 - [`TerraBlender`](https://www.curseforge.com/minecraft/mc-mods/terrablender-fabric) v2.0.1.130
 - [`Create Crafts & Additions`](https://www.curseforge.com/minecraft/mc-mods/createaddition) v20221128a
-- [`Tech Reborn`](https://github.com/TechReborn/TechReborn) v5.4.0
 
 ### Interoperability entry-points
 When new items/blocks/entities/structures are added, the configuration files of the following mods should be adjusted (if necessary).
