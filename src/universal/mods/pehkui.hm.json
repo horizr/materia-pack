@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "3.6.0+1.14.4-1.19.3",
+    "size": 416074,
+    "fileName": "Pehkui-3.6.0+1.14.4-1.19.3.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/t5W7Jfwy/versions/KdbiK6RJ/Pehkui-3.6.0%2B1.14.4-1.19.3.jar",
+    "hashes": {
+      "sha1": "a96573f5dff43bde70e0b82561497c19bf2d087c",
+      "sha512": "3e5e928fec884dee3bb51566b1d9fd302c9c7c8c27ae03b3c21a58d113e622bd2e455fd3c28c552bf67cc5307725cffee8034e708dc96e04e47a29a63731f804"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "t5W7Jfwy",
+    "versionId": "KdbiK6RJ",
+    "ignoreUpdates": false
+  }
+}

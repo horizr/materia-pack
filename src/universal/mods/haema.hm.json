@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "1.10.4+1.19",
+    "size": 3153358,
+    "fileName": "haema-1.10.4+1.19.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/x1oI70UX/versions/vxCiIvPx/haema-1.10.4%2B1.19.jar",
+    "hashes": {
+      "sha1": "21b884da66ae0ae6c3d8ea350e7969b308e55f1b",
+      "sha512": "bdf1558b5e5823f10680296a4a4c35b44ada21e2d38bee3de3eb3bd9142ea22a66cdbe79ce8e7b8d3ff5206c18a5dee249c93e90a9a626832b067ea4b0dc62d6"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "x1oI70UX",
+    "versionId": "vxCiIvPx",
+    "ignoreUpdates": false
+  }
+}

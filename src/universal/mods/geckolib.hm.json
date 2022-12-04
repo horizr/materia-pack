@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "3.1.37",
+    "size": 3618819,
+    "fileName": "geckolib-fabric-1.19-3.1.37.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/wBBaWvGV/geckolib-fabric-1.19-3.1.37.jar",
+    "hashes": {
+      "sha1": "ec1812f14e923c915576a64be6fcbfd2eb4e600e",
+      "sha512": "8a9ea88805518b3759a2a681942bd7b3d7bd2cb92341ceab80527b54c91e95073ccc6f4afab24d787e1f426bd174c6137357c7127839becf3545ea560cdbf4ce"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "8BmcQJ2H",
+    "versionId": "wBBaWvGV",
+    "ignoreUpdates": false
+  }
+}

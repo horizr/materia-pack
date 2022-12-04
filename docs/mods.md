@@ -47,6 +47,9 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Create Crafts & Additions` — additions to `Create`
 
 ### Magic
+- `Haema` — vampires
+- `Origins`
+- `Origins++`
 - `Spectrum`
 - `Paradise Lost` — Aether dimension
 
@@ -99,6 +102,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Dawn API`
 - `Fabric API`
 - `Fabric Language Kotlin`
+- `GeckoLib`
 - `oωo`
 - `TerraBlender` — semi-hard dependency of `Promenade`
 - `Trinkets`
