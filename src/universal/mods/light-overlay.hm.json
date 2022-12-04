@@ -1,7 +1,6 @@
 {
   "formatVersion": 1,
-  "enabled": false,
-  "comment": "Does not work and the repository is inactive.",
+  "enabled": true,
   "version": {
     "name": "7.0.0+fabric",
     "size": 62616,

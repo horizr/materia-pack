@@ -6,7 +6,7 @@
 [**📄 Included mods**](./docs/mods.md)
 
 ## Installation
-We recommend using the [PolyMC launcher](https://polymc.org/) for playing the pack.
+We recommend using the [Prism launcher](https://prismlauncher.org/) for playing the pack.
 
 While creating a new instance, you can select the pack after searching for it in the _Modrinth_ tab.
 
@@ -16,15 +16,14 @@ We recommend using [docker-minecraft-server](https://github.com/itzg/docker-mine
 The packwiz pack is available at `https://materia.horizr.xyz/pack.toml`.
 
 ### Additional recommendations
-- [`Terralith`](https://www.planetminecraft.com/data-pack/terralith-overworld-evolved-100-biomes-caves-and-more/) — Datapack adding many new biomes
-- [`Complementary Shaders`](https://www.curseforge.com/minecraft/customization/complementary-shaders) — Highly-configurable shader-pack
+- [`Complementary Shaders`](https://www.curseforge.com/minecraft/customization/complementary-shaders) — highly-configurable shader-pack
 
 ## Notable changes
-- Click an item frame with an amethyst shard to make it invisible
+- Clicking an item frame with an amethyst shard makes it invisible
 - Witches drop Luck potions
 - Snow accumulates in cold biomes
 - A crafting table can be used from the inventory
-- Crops can't be trampled
+- Crops can’t be trampled
 - Bats can be caught in buckets and let nearby entities glow for 20s when they are released
 - Enchantment books and potions are stackable (16)
 - Spyglass zooming can be adjusted by scrolling and there is a keybind for using it
@@ -43,9 +42,9 @@ These must be manually updated:
 ### Interoperability entry-points
 When new items/blocks/entities/structures are added, the configuration files of the following mods should be adjusted (if necessary).
 
-- Charm: replantable crops, Bookcase items, structures on maps
+- Charm: replantable crops, bookcase items, structures on maps
 - WTHIT: blacklisted blocks and entities
 - Falling Leaves: leaves blocks
 
 ### Reconfiguration needed
-- AE2
+*None*
