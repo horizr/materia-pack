@@ -1,7 +1,7 @@
-![horizr ❯ materia](./banner.png)
+![horizr ❯ aura](./banner.png)
 
-# horizr ❯ materia
-> Technology and automation, including Create. Based on [horizr ❯ visum](https://github.com/horizr/visum-pack).
+# horizr ❯ aura
+> Magic and automation, including Origins and Create. Based on [horizr ❯ visum](https://github.com/horizr/visum-pack).
 
 [**📄 Included mods**](./docs/mods.md)
 
@@ -13,7 +13,7 @@ While creating a new instance, you can select the pack after searching for it in
 ### Server
 We recommend using [docker-minecraft-server](https://github.com/itzg/docker-minecraft-server#running-a-server-with-a-packwiz-modpack).
 
-The packwiz pack is available at `https://materia.horizr.xyz/pack.toml`.
+The packwiz pack is available at `https://aura.horizr.xyz/pack.toml`.
 
 ### Additional recommendations
 - [`Complementary Shaders`](https://www.curseforge.com/minecraft/customization/complementary-shaders) — highly-configurable shader-pack

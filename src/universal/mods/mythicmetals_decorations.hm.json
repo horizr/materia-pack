@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "0.4.1",
+    "size": 478927,
+    "fileName": "mythicmetals-decorations-0.4.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/Wtv23AFN/versions/Mul48K7F/mythicmetals-decorations-0.4.1.jar",
+    "hashes": {
+      "sha1": "b3e02dc4ed27efd336141bdded31f1d210dddce8",
+      "sha512": "bfdf41c3d67ff6691a4aa616b93f5e792c63c84d6b7355a2f85dbc78dc9c14389f877846ec39ece3ed5a9ce67553ba3adb41deda9976d69fb0d10dbc0443aa11"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "Wtv23AFN",
+    "versionId": "Mul48K7F",
+    "ignoreUpdates": false
+  }
+}

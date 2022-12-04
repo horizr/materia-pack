@@ -1,10 +1,10 @@
 {
   "formatVersion": 1,
-  "slug": "horizr-materia",
+  "slug": "horizr-aura",
   "meta": {
-    "name": "horizr ❯ materia",
+    "name": "horizr ❯ aura",
     "version": "1.0.0-alpha.1",
-    "description": "Technology and automation, including Create. Based on horizr ❯ visum.",
+    "description": "Magic and automation, including Origins and Create. Based on horizr ❯ visum.",
     "authors": [
       "The horizr contributors"
     ],

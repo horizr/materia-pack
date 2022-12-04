@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "1.0.2+1.19.2",
+    "size": 123244,
+    "fileName": "revelationary-1.0.2+1.19.2.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/eXrl5E3G/versions/L7Kcd2OC/revelationary-1.0.2%2B1.19.2.jar",
+    "hashes": {
+      "sha1": "9af250789949e21ffaa3b49e78aa0e72a19aa156",
+      "sha512": "2de2b116f053f4ce8a2e970aa4fa57f60919c72941b05602531f4be772721719c5d343b7dbb8247b454e747830087ee45f7aa12eab3eee62030e38ed49908341"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "eXrl5E3G",
+    "versionId": "L7Kcd2OC",
+    "ignoreUpdates": false
+  }
+}

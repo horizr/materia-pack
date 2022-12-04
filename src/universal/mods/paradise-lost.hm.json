@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "2.0",
+    "size": 52346448,
+    "fileName": "paradise-lost-0.2.0-beta+1.19.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/IKpsG0nF/versions/OhZH9yz9/paradise-lost-0.2.0-beta%2B1.19.jar",
+    "hashes": {
+      "sha1": "8f3078ef08c1ad91d339e6cf09a6a4ae079224f3",
+      "sha512": "fafce4daa4d0c168224b1eaedf4b567ea9e2006ab5ce370d897a454aefa02832485a4d84b73f83b1c95affa812f2e2b13d050fbd8baf2c4f75be841f1216fc9f"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "IKpsG0nF",
+    "versionId": "OhZH9yz9",
+    "ignoreUpdates": false
+  }
+}

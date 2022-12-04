@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "2.0.17+1.19",
+    "size": 180821,
+    "fileName": "wraith-alloy-forgery-2.0.17+1.19.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/jhl28YkY/versions/UIMlHriM/wraith-alloy-forgery-2.0.17%2B1.19.jar",
+    "hashes": {
+      "sha1": "65f4a28591a282cb0619a287ede3ed96e459bfb4",
+      "sha512": "8b3aeda5da1b7af88f8e19d699a247b6c33878ccd5d5bf8e56c00519335a3c827a054c92d079363a965216a7c9052de371b0ea1834226a1dadf3adc187c5342a"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "jhl28YkY",
+    "versionId": "UIMlHriM",
+    "ignoreUpdates": false
+  }
+}

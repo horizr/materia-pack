@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "3.4.1",
+    "size": 235740,
+    "fileName": "trinkets-3.4.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/5aaWibi9/versions/oLUBJhyv/trinkets-3.4.1.jar",
+    "hashes": {
+      "sha1": "4056b14a762d296705a983c024de6e1bd134ff47",
+      "sha512": "8e5339025c70c586f8e7b0c452e23d17ef7cadeff94bd276deef370d31fad34705ba735b73c1884574f8419665543dca1bcec205663941f759aa8bcb5c5553e1"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "5aaWibi9",
+    "versionId": "oLUBJhyv",
+    "ignoreUpdates": false
+  }
+}

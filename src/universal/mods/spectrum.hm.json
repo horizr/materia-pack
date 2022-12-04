@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "1.6.3",
+    "size": 37684439,
+    "fileName": "spectrum-1.6.3-1.19.2-leisure_time.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/3rc31Hgo/versions/YRH2IihY/spectrum-1.6.3-1.19.2-leisure_time.jar",
+    "hashes": {
+      "sha1": "61f020809ac7167f41e3931e8aa8a0f1c9423197",
+      "sha512": "0de6e830ee97af1dbd2aea9f24b43e8818886eb6f63d92881c205490b91db7d4ba96e412fbdf05969e13f43f128f4d6afff258c5e206816b9825d5b2ee5be52b"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "3rc31Hgo",
+    "versionId": "YRH2IihY",
+    "ignoreUpdates": false
+  }
+}

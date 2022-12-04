@@ -28,6 +28,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Decorative` — decoration
 - `Infinity Buttons` — more buttons
 - `Lanterns Belong on Walls` — allows placing lanterns on walls
+- `Mythic Metals Decorations`
 - `Promenade` — biomes, mobs and ducks
 - `Terrestria` — more Overworld biomes
 - `Towers of the Wild: Reworked` (data-pack) — BotW-like towers in the Overworld
@@ -40,14 +41,14 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `YUNG's Better Ocean Monuments`
 
 ### Technology
-- `Ad Astra` — space exploration
-- `Automobility` — customizable vehicles
 - `Applied Energistics` — storage
 - `CC: Restitched` — computers
 - `Create` — steampunk machines
 - `Create Crafts & Additions` — additions to `Create`
-- `Modern Industrialization` — stand-alone tech mod
-- `Sync` — controllable player clones
+
+### Magic
+- `Spectrum`
+- `Paradise Lost` — Aether dimension
 
 ### GUI
 - `AppleSkin` — hunger/health-related HUD improvements
@@ -67,6 +68,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 
 ### Miscellaneous
 - `Advancements Debug` — fixes an advancements-related bug
+- `Alloy Forgery` — smeltery
 - `Auth Me` — in-game session re-validation
 - `Axes are Weapons` — allows sword enchantments for axes
 - `Campanion` — various camping-themed items
@@ -78,6 +80,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Ice Boat nerf` — makes boats slow on ice
 - `Kibe` — various items and blocks
 - `Light Overlay`
+- `Mythic Metals` — more metals
 - `No Telemetry` — disables telemetry
 - `st'ructure tools` — building gadgets
 - `You're in Grave Danger` — graves
@@ -98,9 +101,12 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Fabric Language Kotlin`
 - `oωo`
 - `TerraBlender` — semi-hard dependency of `Promenade`
+- `Trinkets`
 - `MidnightLib`
+- `Patchouli`
 - `Resourceful Config`
 - `Resourceful Lib`
+- `Revelationary`
 - `Rhino`
 - `YUNG's API`
 

@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "0.16.4+1.19.2",
+    "size": 1915571,
+    "fileName": "mythicmetals-0.16.4+1.19.2.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/bAWzYNRd/versions/8DC8H9j8/mythicmetals-0.16.4%2B1.19.2.jar",
+    "hashes": {
+      "sha1": "429315271d687d05a12e4886b4d12e9b38160509",
+      "sha512": "2e8aede60d0d3f3f7dbd963cf0fad804f8bd56590f16e2ad20b59bd2e690d7fb98c5460f346b2c2d99ee43b0a63016c8c0cae6fd4907ef6f241bd0231c4d603e"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "bAWzYNRd",
+    "versionId": "8DC8H9j8",
+    "ignoreUpdates": false
+  }
+}
