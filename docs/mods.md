@@ -48,8 +48,6 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 
 ### Magic
 - `Haema` — vampires
-- `Origins`
-- `Origins++`
 - `Spectrum`
 - `Paradise Lost` — Aether dimension
 
