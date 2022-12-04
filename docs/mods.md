@@ -25,7 +25,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Adorn` — furniture
 - `Artisanat` — more block variations
 - `Cinderscapes` — more Nether biomes
-- `Decorative`
+- `Decorative` — decoration
 - `Infinity Buttons` — more buttons
 - `Lanterns Belong on Walls` — allows placing lanterns on walls
 - `Promenade` — biomes, mobs and ducks
