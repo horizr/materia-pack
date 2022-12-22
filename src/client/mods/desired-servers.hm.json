@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "1.1.0",
+    "size": 6500,
+    "fileName": "desiredservers-fabric-1.19.2-1.1.0.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/GDpe4LHD/versions/4F5sOpkI/desiredservers-fabric-1.19.2-1.1.0.jar",
+    "hashes": {
+      "sha1": "bd2ac1f80a6bac8af36bcf92a74acc1b94950fc8",
+      "sha512": "96e248b6b7fb015f847869dc0381136b60ab6da026b6be7d38914688b41cd0eed4aeed61d01965bdcb91cd2a4e2cf5de6bbf8067ccd18967c2a43af9a60e24b8"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "GDpe4LHD",
+    "versionId": "4F5sOpkI",
+    "ignoreUpdates": false
+  }
+}

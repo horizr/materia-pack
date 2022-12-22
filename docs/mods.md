@@ -41,7 +41,9 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `YUNG's Better Ocean Monuments`
 
 ### Technology
+- `Ad Astra` — space exploration
 - `Applied Energistics` — storage
+- `AE2WTLib` — wireless AE2 terminals
 - `CC: Restitched` — computers
 - `Create` — steampunk machines
 - `Create Crafts & Additions` — additions to `Create`
