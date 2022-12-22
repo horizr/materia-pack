@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "5.1.0",
+    "size": 4181260,
+    "fileName": "AdditionalAdditions-5.1.0.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/R4TvILfj/versions/V8k1wNbi/AdditionalAdditions-5.1.0.jar",
+    "hashes": {
+      "sha1": "6460f07ce0acc44e471e51c6c78ee218eee7bf08",
+      "sha512": "5c90754f4ecc488a7919066f2c4053cfd486f3a85df43a64a4822452f0553e6e07d6ebe3a7ffd696364fb05f0881e1d2419ff73e932a007b1e56d87a7e5d2700"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "R4TvILfj",
+    "versionId": "V8k1wNbi",
+    "ignoreUpdates": false
+  }
+}

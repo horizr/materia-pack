@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "1.19.2-436-fabric",
+    "size": 11982297,
+    "fileName": "Botania-1.19.2-436-FABRIC.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/pfjLUfGv/versions/4zEqysVf/Botania-1.19.2-436-FABRIC.jar",
+    "hashes": {
+      "sha1": "e5a8fb838876239dd14f54c5c7f7cdce05f02077",
+      "sha512": "24839c55346ed04fb591c76ef9745a3e8113d2973f7fe1b10f19f87e2fed869b9a86156ad2822bc83eff10ad8108340a6f335f6dddff1f56540e1c4738cf8429"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "pfjLUfGv",
+    "versionId": "4zEqysVf",
+    "ignoreUpdates": false
+  }
+}

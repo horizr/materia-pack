@@ -28,7 +28,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Decorative` — decoration
 - `Infinity Buttons` — more buttons
 - `Lanterns Belong on Walls` — allows placing lanterns on walls
-- `Mythic Metals Decorations`
+- `Purpeille` — new end-game ore
 - `Promenade` — biomes, mobs and ducks
 - `Terrestria` — more Overworld biomes
 - `Towers of the Wild: Reworked` (data-pack) — BotW-like towers in the Overworld
@@ -47,8 +47,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Create Crafts & Additions` — additions to `Create`
 
 ### Magic
-- `Haema` — vampires
-- `Spectrum`
+- `Botania` — tech mod themed around natural magic
 - `Paradise Lost` — Aether dimension
 
 ### GUI
@@ -69,6 +68,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 
 ### Miscellaneous
 - `Advancements Debug` — fixes an advancements-related bug
+- `Additional Additions` — adds additional additions
 - `Alloy Forgery` — smeltery
 - `Auth Me` — in-game session re-validation
 - `Axes are Weapons` — allows sword enchantments for axes
@@ -81,7 +81,6 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Ice Boat nerf` — makes boats slow on ice
 - `Kibe` — various items and blocks
 - `Light Overlay`
-- `Mythic Metals` — more metals
 - `No Telemetry` — disables telemetry
 - `st'ructure tools` — building gadgets
 - `You're in Grave Danger` — graves
@@ -96,6 +95,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 ### Library
 - `Architectury API`
 - `bad packets`
+- `Botarium`
 - `Cloth Config API`
 - `Dawn API`
 - `Fabric API`
